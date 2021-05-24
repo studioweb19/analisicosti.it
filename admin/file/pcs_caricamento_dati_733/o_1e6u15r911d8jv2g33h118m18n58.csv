@@ -1,0 +1,30 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;1.201,83;
+27 / 5;   ACQUISTI DIVERSI;1.201,83;
+27 / 5 / 16;      Materiale di cancelleria;431,33;
+27 / 5 / 34;      Acquisti vari deducibili;393,50;
+27 / 5 / 35;      Materiali di consumo;377,00;
+29;COSTI PER SERVIZI;7.619,28;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);349,53;
+29 / 5 / 19;      Energia elettrica;349,53;
+29 / 15;   COSTI PER SERVIZI (GENERALI);7.269,75;
+29 / 15 / 7;      Assicurazioni diverse;100,00;
+29 / 15 / 11;      Servizi vari commerciali;19,00;
+29 / 15 / 29;      Spese condom.immob.strum.di propr.;87,51;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);512,48;
+29 / 15 / 53;      Servizi amministrativi e contabili;1.519,72;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;2.635,50;
+29 / 15 / 76;      Spese telef.e altre utenze ded.50%;343,61;
+29 / 15 / 81;      Altre spese deducibili;429,51;
+29 / 15 / 84;      Altre spese documentate inded.;83,44;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;852,98;
+29 / 15 / 1010;      Servizi e prest.rese da prof.Minim;686,00;
+38;ONERI DIVERSI DI GESTIONE;925,56;
+38 / 5;   ONERI DIVERSI DI GESTIONE;925,56;
+38 / 5 / 11;      Tassa raccolta rifiuti;124,50;
+38 / 5 / 17;      Altre imposte indeducibili;178,06;
+38 / 5 / 24;      Valori bollati;112,00;
+38 / 5 / 44;      IMU immobili strument.(ded.20%);311,00;
+38 / 5 / 1001;      Iscrizioni collegi e albi;200,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;31.548,86
+44 / 15;   RICAVI DELLE PRESTAZIONI;;31.548,86
+44 / 15 / 1;      Prestazioni di servizi Italia;;31.548,86

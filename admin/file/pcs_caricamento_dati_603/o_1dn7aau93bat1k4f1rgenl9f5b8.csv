@@ -1,0 +1,62 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;56.571,80;
+27 / 5;   ACQUISTI DIVERSI;56.571,80;
+27 / 5 / 1;      Materie prime;22.504,04;
+27 / 5 / 2;      Materie sussidiarie,imballaggi,ecc;503,00;
+27 / 5 / 3;      Materie di consumo;11.535,50;
+27 / 5 / 4;      Merci;18.773,31;
+27 / 5 / 8;      Carbur./lubrific.autovetture ded.;3.130,50;
+27 / 5 / 13;      Carburanti/lubrificanti autocarri;60,00;
+27 / 5 / 34;      Acquisti vari deducibili;65,45;
+29;COSTI PER SERVIZI;32.725,47;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);10.175,66;
+29 / 5 / 1;      Spese di trasporto su acquisti;22,40;
+29 / 5 / 7;      Lavorazioni esterne;5.646,17;
+29 / 5 / 11;      Energia elettrica uso industriale;3.622,70;
+29 / 5 / 12;      Spese di riscaldamento;609,66;
+29 / 5 / 13;      Acqua e gas;252,74;
+29 / 5 / 16;      Servizi vari deducibili;21,99;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);104,00;
+29 / 10 / 13;      Spese di rappresentanza deducibili;104,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);22.445,81;
+29 / 15 / 6;      Assicurazioni autocarri;903,00;
+29 / 15 / 7;      Assicurazioni diverse;203,94;
+29 / 15 / 12;      Manut./ripar.autov.proprie ded.;1.049,14;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;1.322,65;
+29 / 15 / 30;      Pedaggi autostradali deducibili;216,03;
+29 / 15 / 44;      Spese postali;9,00;
+29 / 15 / 45;      Spese telefoniche e adsl (ded.100%;552,06;
+29 / 15 / 47;      Spese bancarie;2.305,89;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;150,00;
+29 / 15 / 52;      Spese legali e di consulenza;3.778,69;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;10.802,00;
+29 / 15 / 65;      Serv.vari gener.e amministr.ded.;240,00;
+29 / 15 / 76;      Spese telefoni cellulari ded.50%;424,41;
+29 / 15 / 81;      Altre spese deducibili;194,00;
+29 / 15 / 90;      Canoni di assistenza;295,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;9.757,48;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;9.757,48;
+31 / 5 / 15;      Canoni d'affitto d'azienda ded.;9.757,48;
+33;COSTI PER IL PERSONALE;37.832,18;
+33 / 5;   SALARI E STIPENDI;24.542,98;
+33 / 5 / 3;      Salari operai;24.542,98;
+33 / 10;   ONERI SOCIALI;6.747,42;
+33 / 10 / 10;      Contributi assistenziali;6.747,42;
+33 / 15;   TRATTAMENTO DI FINE RAPPORTO;123,44;
+33 / 15 / 3;      Accant. fondo TFR altri dipendenti;123,44;
+33 / 25;   ALTRI COSTI;6.418,34;
+33 / 25 / 99;      Altri costi del personale;6.418,34;
+38;ONERI DIVERSI DI GESTIONE;452,83;
+38 / 5;   ONERI DIVERSI DI GESTIONE;452,83;
+38 / 5 / 1;      Tasse vidimazione libri;309,87;
+38 / 5 / 2;      Tasse di possesso autovett.ded.;140,14;
+38 / 5 / 26;      Arrotondamenti passivi;2,82;
+39;ONERI FINANZIARI;1.457,27;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;1.457,27;
+39 / 5 / 5;      Int.ed oneri su debiti v/banche;614,99;
+39 / 5 / 6;      Int.passivi su mutui;842,28;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;125.938,77
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;125.938,77
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;125.938,77
+47;ALTRI RICAVI E PROVENTI;;1,49
+47 / 5;   ALTRI RICAVI E PROVENTI;;1,49
+47 / 5 / 29;      Abbuoni attivi;;1,49

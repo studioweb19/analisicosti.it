@@ -1,0 +1,59 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;22226,42
+47.01;VENDITE PRODOTTI FINITI E MERCI;0,00;2394,47
+47.01.03;Vendita merci;0,00;2394,47
+47.07;CORRISPETTIVI;0,00;19831,95
+47.07.01;Corrispettivi;0,00;19831,95
+47.07.01;VENDITA PRODUZIONE PROPRIA;0,00;19831,95
+55;ACQUISTI DI BENI;9122,01;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;7765,25;
+55.01.01;Acquisti materie prime;6815,34;
+55.01.05;Acquisti materiali di consumo;171,58;
+55.01.07;Acquisti merci per la rivendita;148,17;
+55.01.09;Confezioni e imballi;630,16;
+55.07;ACQUISTI DIVERSI;1356,76;
+55.07.01;Acquisto beni strumentali inf.516,46;976,81;
+55.07.13;Materiali manutenzioni diverse;315,69;
+55.07.51;Materiale vario di consumo;64,26;
+57;ACQUISTI DI SERVIZI;1151,91;
+57.01;SERVIZI PER LA PRODUZIONE;77,58;
+57.01.51;Altri servizi per la produzione;77,58;
+57.09;COSTI PER UTENZE;1074,33;
+57.09.01;Spese telefoniche ordinarie;123,84;
+57.09.03;Spese telefoniche radiomobili;174,41;
+57.09.13;Energia elettrica;697,97;
+57.09.17;Acqua potabile;78,11;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;456,80;
+63.05;SPESE AMMINISTRATIVE E GENERALI;456,80;
+63.05.11;Altre spese amministrative;163,80;
+63.05.13;Premi di assicurazioni non obbligatorie;291,00;
+63.05.23;Valori bollati;2,00;
+65;COSTI PER GODIMENTO BENI DI TERZI;3231,94;
+65.01;GESTIONE IMMOBILI;3231,94;
+65.01.05;Canoni locazione immobili;3231,94;
+67;COSTI PERSONALE DIPENDENTE;5710,91;
+67.01;COSTI PERSONALE DIPENDENTE;5710,91;
+67.01.01;Retribuzioni lorde;4534,05;
+67.01.03;Contributi INPS;1114,34;
+67.01.09;Contrib.altri enti previdenz./assistenz.;62,52;
+71;ONERI DIVERSI DI GESTIONE;84,56;
+71.01;ONERI TRIBUTARI;65,00;
+71.01.07;Imposta di registro e concess. govern.;65,00;
+71.03;ALTRI COSTI DI ESERCIZIO;19,56;
+71.03.01;Spese, perdite e sopravvenienze passive;0,00;
+71.03.09;Cancelleria varia;19,56;
+75;ONERI FINANZIARI;48,26;
+75.01;ONERI FINANZIARI VERSO BANCHE;48,26;
+75.01.07;Commissioni e spese bancarie;48,26;
+80;AMMORTAMENTI;5425,67;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;289,29;
+80.01.11;Amm.to costi di pubblicita';289,29;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;5136,38;
+80.03.23;Amm.to ordinario impianti specifici;58,52;
+80.03.27;Amm.to ordinario macchinari automatici;39,32;
+80.03.29;Amm.to ordin.altri impianti e macchinari;190,76;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;225,61;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;162,13;
+80.03.35;Amm.to ordinario mobili e arredi;3068,34;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;152,43;
+80.03.47;Amm.to ordinario telefonia mobile;36,12;
+80.03.49;Ammortamento ordinario veicoli;1203,15;

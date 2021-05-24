@@ -1,0 +1,32 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;208,02;
+27 / 5;   ACQUISTI DIVERSI;208,02;
+27 / 5 / 34;      Acquisti vari deducibili;208,02;
+29;COSTI PER SERVIZI;46.734,97;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);2.735,50;
+29 / 5 / 16;      Servizi vari deducibili;2.735,50;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);251,75;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;120,00;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);131,75;
+29 / 15;   COSTI PER SERVIZI (GENERALI);43.747,72;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;48,86;
+29 / 15 / 11;      Servizi vari commerciali;31.644,12;
+29 / 15 / 53;      Servizi amministrativi e contabili;3.123,36;
+29 / 15 / 81;      Altre spese deducibili;1.209,64;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;380,46;
+29 / 15 / 1010;      Serv.prest.rese da prof.Minimi/For;7.209,28;
+29 / 15 / 5001;"      Servizio "" Call Tracking Tel.""";132,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;4.200,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;4.200,00;
+31 / 5 / 3;      Locazione uffici;4.200,00;
+33;COSTI PER IL PERSONALE;16.107,82;
+33 / 5;   SALARI E STIPENDI;9.064,00;
+33 / 5 / 1001;      Stipendi e salari;9.064,00;
+33 / 10;   ONERI SOCIALI;7.043,82;
+33 / 10 / 1001;      Contributi dipendenti;7.043,82;
+38;ONERI DIVERSI DI GESTIONE;164,23;
+38 / 5;   ONERI DIVERSI DI GESTIONE;164,23;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;164,23;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;130.371,67
+44 / 15;   RICAVI DELLE PRESTAZIONI;;130.371,67
+44 / 15 / 1;      Prestazioni di servizi Italia;;126.021,67
+44 / 15 / 2;      Prestazioni di servizi estero;;4.350,00

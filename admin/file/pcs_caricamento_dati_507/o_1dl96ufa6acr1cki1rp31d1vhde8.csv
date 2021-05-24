@@ -1,0 +1,80 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;34733,88
+47.01;VENDITE PRODOTTI FINITI E MERCI;0,00;3883,09
+47.01.03;Vendita merci;0,00;3883,09
+47.07;CORRISPETTIVI;0,00;30850,79
+47.07.01;Corrispettivi;0,00;30850,79
+47.07.01;RIVENDITA BIBITE;0,00;105,56
+47.07.01;VENDITA PRODUZIONE PROPRIA;0,00;30745,23
+55;ACQUISTI DI BENI;13157,11;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;12924,81;
+55.01.01;Acquisti materie prime;11005,07;
+55.01.05;Acquisti materiali di consumo;91,57;
+55.01.07;Acquisti merci per la rivendita;310,68;
+55.01.09;Confezioni e imballi;1071,63;
+55.01.17;Acquisti materiali vari;445,86;
+55.07;ACQUISTI DIVERSI;232,30;
+55.07.03;Attrezzatura minuta;95,38;
+55.07.13;Materiali manutenzioni diverse;45,02;
+55.07.51;Materiale vario di consumo;91,90;
+57;ACQUISTI DI SERVIZI;3316,68;
+57.01;SERVIZI PER LA PRODUZIONE;334,00;
+57.01.51;Altri servizi per la produzione;334,00;
+57.01.51.01;Altri servizi per la produzione;334,00;
+57.09;COSTI PER UTENZE;2707,68;
+57.09.03;Spese telefoniche radiomobili;676,90;
+57.09.13;Energia elettrica;1943,03;
+57.09.13.01;Energia elettrica;1943,03;
+57.09.17;Acqua potabile;87,75;
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;275,00;
+57.11.01;Spese manut.impianti e macchin.propri;225,00;
+57.11.03;Spese manutenzione attrezzature proprie;50,00;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;1947,14;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;289,80;
+63.01.03;Materiale pubblicitario;260,00;
+63.01.03.01;Materiale pubblicitario deducibile;260,00;
+63.01.13;Spese di viaggio;29,80;
+63.05;SPESE AMMINISTRATIVE E GENERALI;1657,34;
+63.05.07;Servizi contabili di terzi;1204,59;
+63.05.11;Altre spese amministrative;232,75;
+63.05.25;Assistenza software;220,00;
+65;COSTI PER GODIMENTO BENI DI TERZI;5009,63;
+65.01;GESTIONE IMMOBILI;4356,36;
+65.01.05;Canoni locazione immobili;4356,36;
+65.01.05.01;Canoni locazione immobili deducibili;4356,36;
+65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;613,31;
+65.05.15;Canoni noleggio attrezzature;613,31;
+65.07;CANONI E LICENZE SOFTWARE;39,96;
+65.07.01;Canoni per utilizzo licenze software;39,96;
+67;COSTI PERSONALE DIPENDENTE;5407,76;
+67.01;COSTI PERSONALE DIPENDENTE;5407,76;
+67.01.01;Retribuzioni lorde;4154,06;
+67.01.01.01;Retribuzioni lorde dipendenti ordinari;4154,06;
+67.01.03;Contributi INPS;1126,58;
+67.01.03.01;Contributi INPS dipendenti ordinari;1126,58;
+67.01.09;Contrib.altri enti previdenz./assistenz.;127,12;
+67.01.09.01;Contrib.altri enti previd/ass.dip.ordin.;127,12;
+71;ONERI DIVERSI DI GESTIONE;167,46;
+71.01;ONERI TRIBUTARI;65,50;
+71.01.07;Imposta di registro e concess. govern.;65,50;
+71.03;ALTRI COSTI DI ESERCIZIO;101,96;
+71.03.01;Spese, perdite e sopravvenienze passive;0,00;
+71.03.01.05;Spese, perdite e sopravv.passive inded.;0,00;
+71.03.09;Cancelleria varia;101,96;
+75;ONERI FINANZIARI;13,91;
+75.01;ONERI FINANZIARI VERSO BANCHE;13,91;
+75.01.07;Commissioni e spese bancarie;13,91;
+80;AMMORTAMENTI;7485,68;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;563,77;
+80.01.11;Amm.to costi di pubblicita';386,11;
+80.01.53;Amm.to altre spese pluriennali;177,66;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;6921,91;
+80.03.27;Amm.to ordinario macchinari automatici;52,49;
+80.03.29;Amm.to ordin.altri impianti e macchinari;254,66;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;462,83;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;216,03;
+80.03.35;Amm.to ordinario mobili e arredi;4093,68;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;188,51;
+80.03.47;Amm.to ordinario telefonia mobile;48,21;
+80.03.47.01;Amm.to ordin.telef.mobile totalm.deduc.;48,21;
+80.03.49;Ammortamento ordinario veicoli;1605,50;
+80.03.49.01;Amm.to ordinario veicoli aziend.deducib.;1605,50;

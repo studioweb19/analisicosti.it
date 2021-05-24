@@ -1,0 +1,47 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;761,92;
+27 / 5;   ACQUISTI DIVERSI;761,92;
+27 / 5 / 4;      Merci;63,48;
+27 / 5 / 16;      Materiale di cancelleria;617,30;
+27 / 5 / 18;      Materiale di pulizia;37,14;
+27 / 5 / 34;      Acquisti vari deducibili;44,00;
+29;COSTI PER SERVIZI;32.902,94;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);25.984,10;
+29 / 10 / 1;      Provvigioni su vendite;25.953,60;
+29 / 10 / 13;      Spese di rappresentanza deducibili;30,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);6.918,84;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;305,90;
+29 / 15 / 15;      Manut./ripar.autov.proprie(ded.80%;1.208,15;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;443,04;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;427,00;
+29 / 15 / 33;      Pedaggi autostradali (ded.80%);100,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);49,95;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;61,00;
+29 / 15 / 55;      Spese per consulenza del lavoro;952,23;
+29 / 15 / 74;      Manut. sistemi telefonici (80%);60,00;
+29 / 15 / 81;      Altre spese deducibili;1.989,58;
+29 / 15 / 83;      Altre spese documentate (ded. 80%);231,45;
+29 / 15 / 108;      Carbur./lubrific.autovett.(ded.80%;724,54;
+29 / 15 / 1004;      Spese corsi (ded. 100%);366,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;1.963,84;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;1.963,84;
+31 / 5 / 3;      Locazione uffici;981,92;
+31 / 5 / 1001;      Locazione fondo commerciale;981,92;
+33;COSTI PER IL PERSONALE;25.597,50;
+33 / 5;   SALARI E STIPENDI;16.092,00;
+33 / 5 / 4;      Stipendi impiegati;16.092,00;
+33 / 10;   ONERI SOCIALI;9.505,50;
+33 / 10 / 5;      Oneri sociali per impiegati;536,47;
+33 / 10 / 1001;      Contributi dipendenti;8.969,03;
+38;ONERI DIVERSI DI GESTIONE;412,23;
+38 / 5;   ONERI DIVERSI DI GESTIONE;412,23;
+38 / 5 / 9;      Imposta di registro;86,50;
+38 / 5 / 24;      Valori bollati;12,00;
+38 / 5 / 5003;      Diritto Rivalsa-parte Interessi;21,33;
+38 / 5 / 5004;      Diritto Rivalsa-parte capitale;292,40;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;94.860,39
+44 / 15;   RICAVI DELLE PRESTAZIONI;;94.860,39
+44 / 15 / 3;      Provvigioni attive;;94.860,39
+47;ALTRI RICAVI E PROVENTI;;7.955,46
+47 / 5;   ALTRI RICAVI E PROVENTI;;7.955,46
+47 / 5 / 28;      Ricavi diversi;;54,00
+47 / 5 / 5001;      Contributi attivi;;7.901,46

@@ -1,0 +1,36 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;3.888,39;
+27 / 5;   ACQUISTI DIVERSI;3.888,39;
+27 / 5 / 20;      Indumenti di lavoro;350,88;
+27 / 5 / 34;      Acquisti vari deducibili;655,00;
+27 / 5 / 35;      Materiali di consumo;11,19;
+27 / 5 / 1005;      Mat.prime, di consumo e merci;2.871,32;
+29;COSTI PER SERVIZI;13.608,25;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);2.705,06;
+29 / 5 / 11;      Energia elettrica uso industriale;633,92;
+29 / 5 / 12;      Spese di riscaldamento;430,49;
+29 / 5 / 13;      Acqua e gas;287,98;
+29 / 5 / 16;      Servizi vari deducibili;1.257,39;
+29 / 5 / 1001;      Gas;95,28;
+29 / 15;   COSTI PER SERVIZI (GENERALI);10.903,19;
+29 / 15 / 7;      Assicurazioni diverse;388,87;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;130,00;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;75,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;5.046,87;
+29 / 15 / 81;      Altre spese deducibili;264,00;
+29 / 15 / 1004;      Spese corsi (ded. 100%);4.998,45;
+31;COSTI PER GODIMENTO BENI DI TERZI;3.074,49;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;3.074,49;
+31 / 5 / 14;      Noleggi deducibili 80%;524,49;
+31 / 5 / 1001;      Locazione fondo commerciale;2.550,00;
+33;COSTI PER IL PERSONALE;25.290,02;
+33 / 5;   SALARI E STIPENDI;18.558,09;
+33 / 5 / 1001;      Stipendi e salari;18.558,09;
+33 / 10;   ONERI SOCIALI;6.731,93;
+33 / 10 / 1001;      Contributi dipendenti;6.731,93;
+38;ONERI DIVERSI DI GESTIONE;264,10;
+38 / 5;   ONERI DIVERSI DI GESTIONE;264,10;
+38 / 5 / 18;      Spese di cancelleria;84,10;
+38 / 5 / 35;      Altri oneri di gestione ded.;180,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;57.334,51
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;57.334,51
+44 / 5 / 11;      Corrispettivi;;57.334,51

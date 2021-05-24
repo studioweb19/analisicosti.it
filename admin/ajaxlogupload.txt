@@ -1,0 +1,10 @@
+ANALISI COSTI UPLOAD
+2021-01-09 10:24:15
+{"tipofile":"allegato","idele":"882","nome_tabella":"pcs_caricamento_dati","name":"o_1erj777mso021pi1152bc5e1c4u8.csv"}
+root_server= /var/www/analisicosti.it/web
+directoryfiles= /admin/file
+targetDirRemote= /admin/file/pcs_caricamento_dati_882
+FTPUPLOADDIR= /web
+Ora invece ho messo FTPUPLOADDIR= /var/www/analisicosti.it/web
+successfully created /var/www/analisicosti.it/web/admin/file/pcs_caricamento_dati_882
+filePath= ../tmpfiles/o_1erj777mso021pi1152bc5e1c4u8.csv

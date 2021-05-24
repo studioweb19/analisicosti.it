@@ -1,0 +1,25 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;77,39;
+27 / 5;   ACQUISTI DIVERSI;77,39;
+27 / 5 / 30;      Acqu.beni inf. a 516,46 Euro ded.;49,17;
+27 / 5 / 34;      Acquisti vari deducibili;28,22;
+29;COSTI PER SERVIZI;2.681,53;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);93,30;
+29 / 5 / 19;      Energia elettrica;93,30;
+29 / 15;   COSTI PER SERVIZI (GENERALI);2.588,23;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);100,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;330,72;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;932,50;
+29 / 15 / 76;      Spese telef.e altre utenze ded.50%;31,04;
+29 / 15 / 81;      Altre spese deducibili;141,50;
+29 / 15 / 85;      Spese convegni e corsi (ded. 100%);82,00;
+29 / 15 / 92;      Assicur.autovetture (ded. 20%);633,00;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;211,47;
+29 / 15 / 1010;      Servizi e prest.rese da prof.Minim;126,00;
+38;ONERI DIVERSI DI GESTIONE;197,90;
+38 / 5;   ONERI DIVERSI DI GESTIONE;197,90;
+38 / 5 / 17;      Altre imposte indeducibili;30,98;
+38 / 5 / 24;      Valori bollati;16,00;
+38 / 5 / 40;      Tasse di poss.autovett.(ded.20%);150,92;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;5.728,71
+44 / 15;   RICAVI DELLE PRESTAZIONI;;5.728,71
+44 / 15 / 1;      Prestazioni di servizi Italia;;5.728,71

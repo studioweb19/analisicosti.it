@@ -1,0 +1,30 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;18.179,56;
+27 / 5;   ACQUISTI DIVERSI;18.179,56;
+27 / 5 / 3;      Materie di consumo;1.213,88;
+27 / 5 / 4;      Merci;77,32;
+27 / 5 / 19;      Materiale antinfortunistico;65,00;
+27 / 5 / 20;      Indumenti di lavoro;37,62;
+27 / 5 / 34;      Acquisti vari deducibili;298,72;
+27 / 5 / 35;      Materiali di consumo;1.401,37;
+27 / 5 / 45;      Acqu.beni inf.a 516,46 Euro ded.80;568,65;
+27 / 5 / 1005;      Mat.prime, di consumo e merci;14.517,00;
+29;COSTI PER SERVIZI;8.948,71;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);3.630,00;
+29 / 5 / 16;      Servizi vari deducibili;3.630,00;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);928,00;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;928,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);4.390,71;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;45,18;
+29 / 15 / 22;      Manut./ripar.autocarri propri;885,06;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;232,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;2.350,76;
+29 / 15 / 81;      Altre spese deducibili;7,90;
+29 / 15 / 94;      Manut./ripar.autov.proprie(ded.20%;510,00;
+29 / 15 / 110;      Carburanti/lubrificanti autocarri;359,81;
+38;ONERI DIVERSI DI GESTIONE;234,65;
+38 / 5;   ONERI DIVERSI DI GESTIONE;234,65;
+38 / 5 / 28;      Diritti camerali (CCIAA);53,00;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;181,65;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;42.671,38
+44 / 15;   RICAVI DELLE PRESTAZIONI;;42.671,38
+44 / 15 / 1;      Prestazioni di servizi Italia;;42.671,38

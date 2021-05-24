@@ -1,0 +1,29 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;442,71;
+27 / 5;   ACQUISTI DIVERSI;442,71;
+27 / 5 / 35;      Materiali di consumo;442,71;
+29;COSTI PER SERVIZI;2.365,78;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);492,27;
+29 / 5 / 11;      Energia elettrica uso industriale;143,51;
+29 / 5 / 16;      Servizi vari deducibili;7,90;
+29 / 5 / 1001;      Gas;340,86;
+29 / 15;   COSTI PER SERVIZI (GENERALI);1.873,51;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);114,42;
+29 / 15 / 53;      Servizi amministrativi e contabili;1.073,28;
+29 / 15 / 55;      Spese per consulenza del lavoro;298,90;
+29 / 15 / 98;      Pedaggi autostradali (ded.20%);187,91;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;199,00;
+33;COSTI PER IL PERSONALE;312,83;
+33 / 5;   SALARI E STIPENDI;168,00;
+33 / 5 / 1001;      Stipendi e salari;168,00;
+33 / 10;   ONERI SOCIALI;144,83;
+33 / 10 / 4;      Oneri sociali per operai;144,83;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;28.683,74
+44 / 10;   RICAVI DELLE VENDITE ESTERO;;19,35
+44 / 10 / 2;      Rimborso spese di trasporto estero;;19,35
+44 / 15;   RICAVI DELLE PRESTAZIONI;;28.664,39
+44 / 15 / 1;      Prestazioni di servizi Italia;;28.229,44
+44 / 15 / 2;      Prestazioni di servizi estero;;434,95
+47;ALTRI RICAVI E PROVENTI;;2,00
+47 / 5;   ALTRI RICAVI E PROVENTI;;2,00
+47 / 5 / 9;      Rimborso spese bolli;;2,00
+;;;

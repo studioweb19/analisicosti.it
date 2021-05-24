@@ -1,0 +1,30 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;1.769,57;
+27 / 5;   ACQUISTI DIVERSI;1.769,57;
+27 / 5 / 4;      Merci;24,59;
+27 / 5 / 11;      Carbur./lubrific.autovett.(ded.80%;1.179,76;
+27 / 5 / 16;      Materiale di cancelleria;205,00;
+27 / 5 / 32;      Acquisti vari indeducibili;254,07;
+27 / 5 / 34;      Acquisti vari deducibili;89,76;
+27 / 5 / 1004;      Carbur./lubrific.motocicli(ded.80%;16,39;
+29;COSTI PER SERVIZI;14.867,80;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);9.239,31;
+29 / 10 / 1;      Provvigioni su vendite;1.596,00;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);343,31;
+29 / 10 / 5001;      Segnalazioni per nuovi clienti;7.300,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);5.628,49;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;320,27;
+29 / 15 / 15;      Manut./ripar.autov.proprie(ded.80%;2.236,48;
+29 / 15 / 33;      Pedaggi autostradali (ded.80%);192,29;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);560,18;
+29 / 15 / 53;      Servizi amministrativi e contabili;2.206,07;
+29 / 15 / 81;      Altre spese deducibili;27,13;
+29 / 15 / 108;      Carbur./lubrific.autovett.(ded.80%;49,18;
+29 / 15 / 1006;      Parcheggi ded.80%;36,89;
+38;ONERI DIVERSI DI GESTIONE;570,15;
+38 / 5;   ONERI DIVERSI DI GESTIONE;570,15;
+38 / 5 / 20;      Omaggi di beni infer.ad Euro 50,00;570,15;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;30.209,34
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;1.331,00
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;1.331,00
+44 / 15;   RICAVI DELLE PRESTAZIONI;;28.878,34
+44 / 15 / 3;      Provvigioni attive;;28.878,34

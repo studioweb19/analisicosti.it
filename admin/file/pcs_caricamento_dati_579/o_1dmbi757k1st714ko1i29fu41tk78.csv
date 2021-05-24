@@ -1,0 +1,132 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;8,75;610038,29
+    47.01;VENDITE PRODOTTI FINITI E MERCI;8,75;235254,19
+        47.01.03;Vendita merci;8,75;235254,19
+    47.07;CORRISPETTIVI;;374202,91
+        47.07.01;Corrispettivi;;374202,91
+    47.09;RICAVI ACCESSORI DI VENDITA;;581,19
+        47.09.03;Rivalsa spese di incasso;;581,19
+51;VARIAZ. RIMANENZE INIZIALI;10652,00;
+    51.01;RIMANENZE INIZIALI;10652,00;
+        51.01.13;Rim.iniz.mat.prime, sussid.e di consumo;10652,00;
+53;ALTRI RICAVI E PROVENTI;0,66;16409,70
+    53.01;PROVENTI DIVERSI;0,66;15309,45
+        53.01.19;Sopravvenienze attive da gestione ordin.;;15267,79
+            53.01.19.01;Sopravv.attive da gestione ordin.impon.;;15267,79
+        53.01.29;Arrotondamenti attivi diversi;0,66;41,66
+    53.09;COMPONENTI POSITIVI DA EVENTI STRAORD.;;1100,25
+        53.09.03;Sopravv.attive da eventi str./es.prec.;;1100,25
+            53.09.03.01;Sopravv.attive imp.da ev.str./es.prec.;;1100,25
+55;ACQUISTI DI BENI;219901,75;8972,18
+    55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;216639,30;8953,17
+        55.01.01;Acquisti materie prime;182145,34;8610,66
+        55.01.05;Acquisti materiali di consumo;5120,39;81,21
+        55.01.07;Acquisti merci per la rivendita;18968,36;261,12
+        55.01.09;Confezioni e imballi;9948,90;
+        55.01.19;Oneri accessori su acquisti;456,31;0,18
+    55.07;ACQUISTI DIVERSI;3262,45;19,01
+        55.07.03;Attrezzatura minuta;946,68;
+        55.07.11;Materiali manutenz.impianti e macchinari;594,00;
+        55.07.51;Materiale vario di consumo;1721,77;19,01
+57;ACQUISTI DI SERVIZI;39118,80;2743,86
+    57.01;SERVIZI PER LA PRODUZIONE;481,96;
+        57.01.51;Altri servizi per la produzione;481,96;
+            57.01.51.01;Altri servizi per la produzione;481,96;
+    57.09;COSTI PER UTENZE;29795,62;2743,86
+        57.09.01;Spese telefoniche ordinarie;1287,03;152,64
+            57.09.01.01;Spese telefoniche ordinarie;1287,03;152,64
+        57.09.13;Energia elettrica;12581,53;1278,92
+            57.09.13.01;Energia elettrica;12581,53;1278,92
+        57.09.17;Acqua potabile;966,77;
+        57.09.19;Gas;5460,29;1312,30
+        57.09.21;Pulizia locali;9500,00;
+    57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;8841,22;
+        57.11.01;Spese manut.impianti e macchin.propri;7922,00;
+        57.11.03;Spese manutenzione attrezzature proprie;881,00;
+        57.11.11;Canoni manutenzione attrezzature proprie;38,22;
+59;GESTIONE VEICOLI AZIENDALI;7521,73;
+    59.01;ESERCIZIO AUTOMEZZI;7089,05;
+        59.01.01;Carburanti e lubrificanti automezzi;1199,93;
+        59.01.05;Premi di assicurazione automezzi;1166,29;
+        59.01.07;Altre spese automezzi;2369,77;
+        59.01.13;Spese manutenzione automezzi propri;2353,06;
+            59.01.13.03;Spese manutenzione automezzi propri;2353,06;
+    59.03;ESERCIZIO AUTOVETTURE E ALTRI VEICOLI;432,68;
+        59.03.01;Carburanti e lubrificanti veicoli;432,68;
+            59.03.01.11;Carburanti e lubrificanti indeducibili;432,68;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;3221,01;362,34
+    61.01;PRESTAZIONI DI LAVORO AUTONOMO;2889,10;362,34
+        61.01.01;Consulenze amministrative e fiscali;2889,10;362,34
+            61.01.01.01;Consulenze ammin.e fiscali (non ordin.);2889,10;362,34
+    61.05;COMPENSI ORGANI SOCIALI;331,91;
+        61.05.15;Premi INAIL soci/titolari;331,91;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;9299,92;39,77
+    63.01;SPESE COMMERCIALI E DI VIAGGIO;358,18;
+        63.01.21;Spese rappres.deduc.(con limite ricavi);358,18;
+    63.05;SPESE AMMINISTRATIVE E GENERALI;8941,74;39,77
+        63.05.01;Spese postali;35,20;
+        63.05.07;Servizi contabili di terzi;6772,06;
+        63.05.11;Altre spese amministrative;442,12;9,00
+        63.05.15;Premi di assicurazioni obbligatorie;1167,76;
+        63.05.17;Servizi di vigilanza;121,32;
+        63.05.23;Valori bollati;203,28;30,77
+        63.05.25;Assistenza software;200,00;
+65;COSTI PER GODIMENTO BENI DI TERZI;41877,18;
+    65.01;GESTIONE IMMOBILI;40529,38;
+        65.01.05;Canoni locazione immobili;40529,38;
+            65.01.05.01;Canoni locazione immobili deducibili;40529,38;
+    65.03;LOCAZ. E CANONI AUTOV. E ALTRI VEICOLI;597,80;
+        65.03.05;Canoni/spese access.nolegg.veicoli;597,80;
+            65.03.05.01;Can./spese access.noleg.veicoli deduc.;597,80;
+    65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;18,00;
+        65.05.15;Canoni noleggio attrezzature;18,00;
+    65.07;CANONI E LICENZE SOFTWARE;732,00;
+        65.07.03;Licenze d'uso software non capitalizzati;732,00;
+67;COSTI PERSONALE DIPENDENTE;254369,34;11020,81
+    67.01;COSTI PERSONALE DIPENDENTE;252219,34;11020,81
+        67.01.01;Retribuzioni lorde;197945,37;8726,25
+            67.01.01.01;Retribuzioni lorde dipendenti ordinari;197945,37;8726,25
+        67.01.03;Contributi INPS;47836,02;2294,56
+            67.01.03.01;Contributi INPS dipendenti ordinari;47836,02;2294,56
+        67.01.07;Quote TFR dipendenti;1798,27;
+            67.01.07.01;Quote TFR dipend.ordinari (in azienda);1798,27;
+        67.01.11;Premi INAIL;4639,68;
+    67.03;COSTI DIVERSI PERSONALE DIPENDENTE;2150,00;
+        67.03.13;Ricerca, formazione e addestramento;750,00;
+        67.03.25;Visite mediche periodiche ai dipendenti;650,00;
+        67.03.51;Altri costi per il personale dipendente;750,00;
+71;ONERI DIVERSI DI GESTIONE;2993,01;
+    71.01;ONERI TRIBUTARI;1603,68;
+        71.01.05;Diritti camerali;170,68;
+        71.01.13;Tassa raccolta e smaltimento rifiuti;1433,00;
+    71.03;ALTRI COSTI DI ESERCIZIO;1389,33;
+        71.03.01;Spese, perdite e sopravvenienze passive;310,78;
+            71.03.01.05;Spese, perdite e sopravv.passive inded.;310,78;
+        71.03.07;Contributi associativi;180,00;
+            71.03.07.01;Contributi associativi versati;180,00;
+        71.03.09;Cancelleria varia;682,64;
+        71.03.11;Abbonamenti, libri e pubblicazioni;54,90;
+        71.03.17;Arrotondamenti passivi diversi;11,01;
+        71.03.23;Erogazioni liberali;150,00;
+            71.03.23.01;Erogaz.liberali deducibili art.100;150,00;
+75;ONERI FINANZIARI;4628,23;300,49
+    75.01;ONERI FINANZIARI VERSO BANCHE;2361,03;300,49
+        75.01.07;Commissioni e spese bancarie;2361,03;300,49
+    75.03;ONERI FINANZIARI DIVERSI;2267,20;
+        75.03.09;Interessi passivi su finanziam. di terzi;2098,42;
+        75.03.19;Interessi passivi acquisto automezzi;168,78;
+80;AMMORTAMENTI;;
+    80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;;
+        80.01.27;Amm.to spese di manut.su beni di terzi;;
+    80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;;
+        80.03.19;Amm.to ordinario impianti elettrici;;
+        80.03.23;Amm.to ordinario impianti specifici;;
+        80.03.29;Amm.to ordin.altri impianti e macchinari;;
+        80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;;
+        80.03.33;Amm.to ordinario attrezz.varia e minuta;;
+        80.03.35;Amm.to ordinario mobili e arredi;;
+        80.03.39;Amm.ord.macchine d'ufficio elettroniche;;
+        80.03.45;Amm.to ordinario automezzi;;
+84;IMPOSTE DELL'ESERCIZIO;0,62;
+    84.01;IMPOSTE DELL'ESERCIZIO;0,62;
+        84.01.37;Inter.e sanz.imposte dirette correnti;0,62;
+            84.01.37.03;Sanz.e int.inded.imposte dirette correnti;0,62;

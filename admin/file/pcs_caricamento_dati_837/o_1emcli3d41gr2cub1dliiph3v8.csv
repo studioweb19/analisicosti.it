@@ -1,0 +1,52 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;1.489,36;
+27 / 5;   ACQUISTI DIVERSI;1.489,36;
+27 / 5 / 16;      Materiale di cancelleria;15,12;
+27 / 5 / 18;      Materiale di pulizia;30,29;
+27 / 5 / 30;      Acqu.beni inf. a 516,46 Euro ded.;49,13;
+27 / 5 / 34;      Acquisti vari deducibili;1.093,73;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;181,04;
+27 / 5 / 45;      Acqu.beni inf.a 516,46 Euro ded.80;120,05;
+29;COSTI PER SERVIZI;114.353,58;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);402,83;
+29 / 5 / 13;      Acqua e gas;106,58;
+29 / 5 / 16;      Servizi vari deducibili;175,90;
+29 / 5 / 19;      Energia elettrica uso civile;48,81;
+29 / 5 / 1001;      Gas;71,54;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);397,50;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);397,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);113.553,25;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;316,50;
+29 / 15 / 11;      Servizi vari commerciali;86.084,57;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;75,00;
+29 / 15 / 26;      Manut./ripar.fabbricati civili;1.701,85;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);397,97;
+29 / 15 / 52;      Spese legali e di consulenza;520,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;4.296,06;
+29 / 15 / 61;      Spese buoni pasto per dipendenti;214,20;
+29 / 15 / 64;      Servizi e spese di pulizia;360,00;
+29 / 15 / 81;      Altre spese deducibili;1.700,02;
+29 / 15 / 92;      Assicur.autovetture (ded. 20%);439,00;
+29 / 15 / 98;      Pedaggi autostradali (ded.20%);230,86;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;169,42;
+29 / 15 / 1010;      Serv.prest.rese da prof.Minimi/For;16.974,27;
+29 / 15 / 5001;"      Servizio "" Call Tracking Tel.""";73,53;
+31;COSTI PER GODIMENTO BENI DI TERZI;9.117,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;9.117,00;
+31 / 5 / 3;      Locazione uffici;9.117,00;
+33;COSTI PER IL PERSONALE;46.357,24;
+33 / 5;   SALARI E STIPENDI;28.802,20;
+33 / 5 / 1001;      Stipendi e salari;28.802,20;
+33 / 10;   ONERI SOCIALI;17.555,04;
+33 / 10 / 1001;      Contributi dipendenti;17.555,04;
+38;ONERI DIVERSI DI GESTIONE;1.892,96;
+38 / 5;   ONERI DIVERSI DI GESTIONE;1.892,96;
+38 / 5 / 9;      Imposta di registro;57,00;
+38 / 5 / 23;      Contributi assoc.sind.e di categ.;1.140,00;
+38 / 5 / 24;      Valori bollati;34,00;
+38 / 5 / 40;      Tasse di poss.autovett.(ded.20%);239,46;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;422,50;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;342.950,10
+44 / 15;   RICAVI DELLE PRESTAZIONI;;342.950,10
+44 / 15 / 1;      Prestazioni di servizi Italia;;338.341,30
+44 / 15 / 2;      Prestazioni di servizi estero;;2.988,80
+44 / 15 / 5002;      Docenze;;1.620,00

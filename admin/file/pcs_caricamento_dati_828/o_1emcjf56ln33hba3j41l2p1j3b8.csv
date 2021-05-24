@@ -1,0 +1,36 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;613,34;
+27 / 5;   ACQUISTI DIVERSI;613,34;
+27 / 5 / 17;      Materiale pubblicit.e di propag.;31,82;
+27 / 5 / 34;      Acquisti vari deducibili;522,37;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;59,15;
+29;COSTI PER SERVIZI;74.902,06;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);2.745,49;
+29 / 5 / 16;      Servizi vari deducibili;2.745,49;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);804,26;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;421,00;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);383,26;
+29 / 15;   COSTI PER SERVIZI (GENERALI);71.352,31;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;198,62;
+29 / 15 / 11;      Servizi vari commerciali;48.952,13;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);761,12;
+29 / 15 / 53;      Servizi amministrativi e contabili;3.909,13;
+29 / 15 / 81;      Altre spese deducibili;3.832,23;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;753,47;
+29 / 15 / 1004;      Spese corsi (ded. 100%);120,00;
+29 / 15 / 1010;      Serv.prest.rese da prof.Minimi/For;12.693,61;
+29 / 15 / 5001;"      Servizio "" Call Tracking Tel.""";132,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;8.200,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;8.200,00;
+31 / 5 / 3;      Locazione uffici;8.200,00;
+33;COSTI PER IL PERSONALE;28.067,41;
+33 / 5;   SALARI E STIPENDI;16.384,00;
+33 / 5 / 1001;      Stipendi e salari;16.384,00;
+33 / 10;   ONERI SOCIALI;11.683,41;
+33 / 10 / 1001;      Contributi dipendenti;11.683,41;
+38;ONERI DIVERSI DI GESTIONE;164,23;
+38 / 5;   ONERI DIVERSI DI GESTIONE;164,23;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;164,23;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;210.109,56
+44 / 15;   RICAVI DELLE PRESTAZIONI;;210.109,56
+44 / 15 / 1;      Prestazioni di servizi Italia;;199.959,56
+44 / 15 / 2;      Prestazioni di servizi estero;;10.150,00

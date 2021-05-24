@@ -1,0 +1,144 @@
+Codice conto formattato indentato;Descrizione conto;Saldo rettificato Dare;Saldo rettificato avere
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;666791,30
+  47.01;VENDITE PRODOTTI FINITI E MERCI;0,00;666701,80
+    47.01.03;Vendita merci;0,00;581479,54
+    47.01.90;Vendite Estero;0,00;21897,70
+    47.01.91;Vendite Intracomunitarie;0,00;63324,56
+  47.09;RICAVI ACCESSORI DI VENDITA;0,00;89,50
+    47.09.03;Rivalsa spese di incasso;0,00;3,50
+    47.09.90;Rivalsa Diritti e Bolli;0,00;86,00
+53;ALTRI RICAVI E PROVENTI;0,00;17083,99
+  53.01;PROVENTI DIVERSI;0,00;16660,99
+    53.01.28;Contrib.art.18 DL91/2014 (nuovi invest);0,00;9156,00
+    53.01.29;Arrotondamenti attivi diversi;0,00;21,19
+    53.01.51;Altri ricavi e proventi;0,00;7483,80
+      53.01.51.01;Altri ricavi e proventi imponibili;0,00;7483,80
+  53.09;COMPONENTI POSITIVI DA EVENTI STRAORD.;0,00;423,00
+    53.09.03;Sopravv.attive da eventi str./es.prec.;0,00;423,00
+      53.09.03.01;Sopravv.attive imp.da ev.str./es.prec.;0,00;423,00
+55;ACQUISTI DI BENI;116179,08;0,00
+  55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;113248,71;0,00
+    55.01.01;Acquisti materie prime;106461,30;0,00
+    55.01.05;Acquisti materiali di consumo;6088,20;0,00
+    55.01.09;Confezioni e imballi;687,86;0,00
+    55.01.19;Oneri accessori su acquisti;11,35;0,00
+  55.07;ACQUISTI DIVERSI;2930,37;0,00
+    55.07.03;Attrezzatura minuta;940,70;0,00
+    55.07.11;Materiali manutenz.impianti e macchinari;1081,45;0,00
+    55.07.13;Materiali manutenzioni diverse;908,22;0,00
+57;ACQUISTI DI SERVIZI;146646,00;0,00
+  57.01;SERVIZI PER LA PRODUZIONE;115219,99;0,00
+    57.01.01;Lavorazioni di terzi;113073,49;0,00
+      57.01.01.01;Lavorazioni di terzi;113073,49;0,00
+    57.01.51;Altri servizi per la produzione;2146,50;0,00
+      57.01.51.01;Altri servizi per la produzione;2146,50;0,00
+  57.03;COSTI ACCESSORI PER VENDITE;1075,62;0,00
+    57.03.01;Trasporti su vendite;1075,62;0,00
+  57.05;COSTI ACCESSORI PER ACQUISTI;50,00;0,00
+    57.05.01;Trasporti su acquisti;50,00;0,00
+      57.05.01.01;Trasporti su acquisti;50,00;0,00
+  57.09;COSTI PER UTENZE;9790,34;0,00
+    57.09.01;Spese telefoniche ordinarie;803,13;0,00
+      57.09.01.01;Spese telefoniche ordinarie;803,13;0,00
+    57.09.03;Spese telefoniche radiomobili;235,28;0,00
+    57.09.13;Energia elettrica;8751,93;0,00
+      57.09.13.01;Energia elettrica;8751,93;0,00
+  57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;20510,05;0,00
+    57.11.01;Spese manut.impianti e macchin.propri;8470,53;0,00
+    57.11.03;Spese manutenzione attrezzature proprie;69,75;0,00
+    57.11.07;Altre spese manutenzione beni propri;7264,41;0,00
+      57.11.07.01;Altre spese manutenzione beni propri;7264,41;0,00
+    57.11.09;Canoni manut.impianti e macchin.propri;2095,76;0,00
+    57.11.15;Spese manut.impianti e macchin.di terzi;2609,60;0,00
+59;GESTIONE VEICOLI AZIENDALI;1852,86;0,00
+  59.03;ESERCIZIO AUTOVETTURE E ALTRI VEICOLI;1852,86;0,00
+    59.03.01;Carburanti e lubrificanti veicoli;180,32;0,00
+      59.03.01.01;Carb.e lubrif.veicoli aziendali deduc.;180,32;0,00
+    59.03.03;Premi assicurazioni veicoli;1393,01;0,00
+      59.03.03.01;Premi assicur.veicoli aziendali deduc.;614,79;0,00
+      59.03.03.05;Premi assicur.veicoli aziend.non strum.;778,22;0,00
+    59.03.05;Altre spese veicoli;2,34;0,00
+      59.03.05.07;Altre spese veicoli aziendali non strum.;2,34;0,00
+    59.03.13;Tasse possesso veicoli;101,27;0,00
+      59.03.13.01;Tassa possesso veicoli aziendali deduc.;5,89;0,00
+      59.03.13.11;Tassa possesso veic. azien. non strum.;95,38;0,00
+    59.03.15;Spese manutenzione veicoli propri;175,92;0,00
+      59.03.15.11;Spese manut.veic.propri aziend.non strum;175,92;0,00
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;9438,64;0,00
+  61.01;PRESTAZIONI DI LAVORO AUTONOMO;9296,00;0,00
+    61.01.11;Consulenze/prestazioni diverse;9256,00;0,00
+      61.01.11.05;Consulenze non afferenti diverse;9256,00;0,00
+    61.01.19;Contributi cassa previdenza lav.autonomo;40,00;0,00
+      61.01.19.03;Contrib.cassa previd.lav.aut. non affer.;40,00;0,00
+  61.05;COMPENSI ORGANI SOCIALI;142,64;0,00
+    61.05.15;Premi INAIL soci/titolari;142,64;0,00
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;18374,71;0,00
+  63.01;SPESE COMMERCIALI E DI VIAGGIO;1597,88;0,00
+    63.01.13;Spese di viaggio;1314,54;0,00
+    63.01.15;Pedaggi autostradali veicoli;153,55;0,00
+      63.01.15.09;Pedaggi autostr.veicoli azien.non strum;153,55;0,00
+    63.01.21;Spese rappres.deduc.(con limite ricavi);129,79;0,00
+  63.05;SPESE AMMINISTRATIVE E GENERALI;16776,83;0,00
+    63.05.01;Spese postali;6,00;0,00
+    63.05.07;Servizi contabili di terzi;4107,80;0,00
+    63.05.11;Altre spese amministrative;11,50;0,00
+    63.05.13;Premi di assicurazioni non obbligatorie;1875,58;0,00
+      63.05.13.01;Premi di assicuraz.non obblig.deducibili;1875,58;0,00
+    63.05.17;Servizi di vigilanza;370,80;0,00
+    63.05.19;Servizi smaltimento rifiuti;9185,70;0,00
+    63.05.23;Valori bollati;307,50;0,00
+    63.05.25;Assistenza software;911,95;0,00
+65;COSTI PER GODIMENTO BENI DI TERZI;59639,84;0,00
+  65.01;GESTIONE IMMOBILI;26352,92;0,00
+    65.01.05;Canoni locazione immobili;26352,92;0,00
+      65.01.05.01;Canoni locazione immobili deducibili;26352,92;0,00
+  65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;33236,92;0,00
+    65.05.03;Canoni leasing impianti e macchinari;31288,22;0,00
+    65.05.09;Inter.canoni leasing imp.e macchinari;1494,44;0,00
+    65.05.15;Canoni noleggio attrezzature;454,26;0,00
+  65.07;CANONI E LICENZE SOFTWARE;50,00;0,00
+    65.07.03;Licenze d'uso software non capitalizzati;50,00;0,00
+67;COSTI PERSONALE DIPENDENTE;121871,14;0,00
+  67.01;COSTI PERSONALE DIPENDENTE;118551,98;0,00
+    67.01.01;Retribuzioni lorde;90393,76;0,00
+      67.01.01.01;Retribuzioni lorde dipendenti ordinari;90393,76;0,00
+    67.01.03;Contributi INPS;23636,67;0,00
+      67.01.03.01;Contributi INPS dipendenti ordinari;23636,67;0,00
+    67.01.09;Contrib.altri enti previdenz./assistenz.;1087,90;0,00
+      67.01.09.01;Contrib.altri enti previd/ass.dip.ordin.;1087,90;0,00
+    67.01.11;Premi INAIL;3433,65;0,00
+  67.03;COSTI DIVERSI PERSONALE DIPENDENTE;3319,16;0,00
+    67.03.19;Erogaz.altre indennit…/incentivi/accordi;3169,16;0,00
+    67.03.51;Altri costi per il personale dipendente;150,00;0,00
+71;ONERI DIVERSI DI GESTIONE;1701,88;0,00
+  71.03;ALTRI COSTI DI ESERCIZIO;1701,88;0,00
+    71.03.01;Spese, perdite e sopravvenienze passive;217,08;0,00
+      71.03.01.05;Spese, perdite e sopravv.passive inded.;217,08;0,00
+    71.03.09;Cancelleria varia;471,52;0,00
+    71.03.17;Arrotondamenti passivi diversi;31,27;0,00
+    71.03.19;Carbur.e lubrif.(no costi produz.);566,00;0,00
+      71.03.19.01;Carb.e lubr.veic.az.non strum.(no prod);566,00;0,00
+    71.03.51;Costi e spese diverse;416,01;0,00
+75;ONERI FINANZIARI;352,42;0,00
+  75.01;ONERI FINANZIARI VERSO BANCHE;288,59;0,00
+    75.01.07;Commissioni e spese bancarie;288,59;0,00
+  75.03;ONERI FINANZIARI DIVERSI;63,83;0,00
+    75.03.05;Interessi passivi su mutui;52,80;0,00
+    75.03.27;Interessi passivi di mora;11,03;0,00
+      75.03.27.01;Interessi passivi di mora pagati;11,03;0,00
+80;AMMORTAMENTI;7597,42;0,00
+  80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;7597,42;0,00
+    80.03.13;Amm.ordinario impianti condizionamento;210,56;0,00
+    80.03.21;Amm.to ordin.impianti telefonici;149,23;0,00
+      80.03.21.01;Amm.to ordin.impianti telef.totalm.ded.;149,23;0,00
+    80.03.23;Amm.to ordinario impianti specifici;129,11;0,00
+    80.03.27;Amm.to ordinario macchinari automatici;1200,91;0,00
+    80.03.29;Amm.to ordin.altri impianti e macchinari;3641,73;0,00
+    80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;778,48;0,00
+    80.03.33;Amm.to ordinario attrezz.varia e minuta;301,67;0,00
+    80.03.35;Amm.to ordinario mobili e arredi;579,78;0,00
+    80.03.37;Amm.ordin.mobili e macchine da ufficio;59,25;0,00
+    80.03.39;Amm.ord.macchine d'ufficio elettroniche;373,50;0,00
+    80.03.41;Amm.to ordinario costruzioni leggere;133,25;0,00
+    80.03.59;Amm.to ordinario altri beni materiali;39,95;0,00
+      80.03.59.01;Amm.to ordinari altri beni mater.deduc.;39,95;0,00

@@ -1,0 +1,42 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;5.029,19;
+27 / 5;   ACQUISTI DIVERSI;5.029,19;
+27 / 5 / 17;      Materiale pubblicit.e di propag.;144,98;
+27 / 5 / 20;      Indumenti di lavoro;350,88;
+27 / 5 / 34;      Acquisti vari deducibili;855,50;
+27 / 5 / 35;      Materiali di consumo;11,19;
+27 / 5 / 1005;      Mat.prime, di consumo e merci;3.666,64;
+29;COSTI PER SERVIZI;15.396,64;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);3.057,85;
+29 / 5 / 11;      Energia elettrica uso industriale;633,92;
+29 / 5 / 12;      Spese di riscaldamento;778,53;
+29 / 5 / 13;      Acqua e gas;382,73;
+29 / 5 / 16;      Servizi vari deducibili;1.167,39;
+29 / 5 / 1001;      Gas;95,28;
+29 / 15;   COSTI PER SERVIZI (GENERALI);12.338,79;
+29 / 15 / 7;      Assicurazioni diverse;484,87;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;130,00;
+29 / 15 / 47;      Spese bancarie;361,68;
+29 / 15 / 49;      Commiss.per servizi di incasso;299,06;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;75,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;5.615,73;
+29 / 15 / 81;      Altre spese deducibili;374,00;
+29 / 15 / 1004;      Spese corsi (ded. 100%);4.998,45;
+31;COSTI PER GODIMENTO BENI DI TERZI;13.522,60;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;13.522,60;
+31 / 5 / 14;      Noleggi deducibili 80%;715,60;
+31 / 5 / 1001;      Locazione fondo commerciale;12.807,00;
+33;COSTI PER IL PERSONALE;29.666,48;
+33 / 5;   SALARI E STIPENDI;21.563,09;
+33 / 5 / 1001;      Stipendi e salari;21.563,09;
+33 / 10;   ONERI SOCIALI;8.103,39;
+33 / 10 / 1001;      Contributi dipendenti;8.103,39;
+38;ONERI DIVERSI DI GESTIONE;883,93;
+38 / 5;   ONERI DIVERSI DI GESTIONE;883,93;
+38 / 5 / 16;      Altre imposte deducibili;100,00;
+38 / 5 / 18;      Spese di cancelleria;84,10;
+38 / 5 / 28;      Diritti camerali (CCIAA);120,00;
+38 / 5 / 35;      Altri oneri di gestione ded.;180,00;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;399,83;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;66.333,69
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;66.333,69
+44 / 5 / 11;      Corrispettivi;;66.333,69

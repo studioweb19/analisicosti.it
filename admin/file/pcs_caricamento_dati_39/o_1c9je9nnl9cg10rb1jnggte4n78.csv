@@ -1,0 +1,77 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;223678,89
+47.07;CORRISPETTIVI;0,00;165982,63
+47.07.01;Corrispettivi;0,00;165982,63
+47.11;RICAVI DA PRESTAZIONI;0,00;57696,26
+47.11.03;Prestazioni di servizi;0,00;57696,26
+53;ALTRI RICAVI E PROVENTI;0,00;88,11
+53.01;PROVENTI DIVERSI;0,00;88,11
+53.01.51;Altri ricavi e proventi;0,00;88,11
+55;ACQUISTI DI BENI;19159,52;
+55.03;ACQUISTI PER LA PRODUZIONE DI SERVIZI;14020,28;
+55.03.01;Acq.beni materiali per produz. servizi;14020,28;
+55.07;ACQUISTI DIVERSI;5139,24;
+55.07.01;Acquisto beni strumentali inf.516,46;545,28;
+55.07.03;Attrezzatura minuta;481,91;
+55.07.17;Cancelleria varia;3778,33;
+55.07.51;Materiale vario di consumo;333,72;
+57;ACQUISTI DI SERVIZI;8786,33;
+57.03;COSTI ACCESSORI PER VENDITE;2428,05;
+57.03.01;Trasporti su vendite;2428,05;
+57.09;COSTI PER UTENZE;5058,30;
+57.09.01;Spese telefoniche ordinarie;2337,33;
+57.09.03;Spese telefoniche radiomobili;804,40;
+57.09.07;Servizi telematici;46,04;
+57.09.13;Energia elettrica;1870,53;
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;747,20;
+57.11.01;Spese manut.impianti e macchin.propri;683,20;
+57.11.03;Spese manutenzione attrezzature proprie;64,00;
+57.13;MANUTENZIONE FABBRICATI;552,78;
+57.13.01;Spese manutenzione fabbricati;552,78;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;6434,41;
+61.01;PRESTAZIONI DI LAVORO AUTONOMO;6434,41;
+61.01.17;Altri costi per prestazioni di terzi;6434,41;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;26296,44;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;9200,08;
+63.01.01;Pubblicit…, inserzioni e affissioni;8952,58;
+63.01.09;Spese per alberghi e ristoranti;247,50;
+63.03;SPESE DI RAPPRESENTANZA (ON.DIV.GEST.);1515,95;
+63.03.01;Spese di rappresentanza (on.gest.);1320,75;
+63.03.03;Omaggi;195,20;
+63.05;SPESE AMMINISTRATIVE E GENERALI;15580,41;
+63.05.01;Spese postali;501,37;
+63.05.07;Servizi contabili di terzi;8003,02;
+63.05.11;Altre spese amministrative;3959,47;
+63.05.13;Premi di assicurazioni non obbligatorie;2361,68;
+63.05.19;Servizi smaltimento rifiuti;355,87;
+63.05.23;Valori bollati;216,00;
+63.05.51;Spese generali varie;183,00;
+65;COSTI PER GODIMENTO BENI DI TERZI;18912,82;
+65.01;GESTIONE IMMOBILI;13236,72;
+65.01.05;Canoni locazione immobili;9360,00;
+65.01.07;Spese condominiali e varie;3876,72;
+65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;5676,10;
+65.05.15;Canoni noleggio attrezzature;5676,10;
+67;COSTI PERSONALE DIPENDENTE;80426,01;
+67.01;COSTI PERSONALE DIPENDENTE;79071,81;
+67.01.01;Retribuzioni lorde;65977,46;
+67.01.03;Contributi INPS;13126,71;
+67.01.11;Premi INAIL;-32,36;
+67.03;COSTI DIVERSI PERSONALE DIPENDENTE;1354,20;
+67.03.13;Ricerca, formazione e addestramento;1354,20;
+71;ONERI DIVERSI DI GESTIONE;1950,02;
+71.01;ONERI TRIBUTARI;1645,87;
+71.01.13;Tassa raccolta e smaltimento rifiuti;1645,87;
+71.03;ALTRI COSTI DI ESERCIZIO;304,15;
+71.03.01;Spese, perdite e sopravvenienze passive;0,00;
+71.03.11;Abbonamenti, libri e pubblicazioni;304,15;
+75;ONERI FINANZIARI;2586,79;
+75.01;ONERI FINANZIARI VERSO BANCHE;2586,79;
+75.01.07;Commissioni e spese bancarie;2586,79;
+80;AMMORTAMENTI;1333,92;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;551,14;
+80.01.53;Amm.to altre spese pluriennali;551,14;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;782,78;
+80.03.13;Amm.ordinario impianti condizionamento;282,72;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;13,04;
+80.03.35;Amm.to ordinario mobili e arredi;366,76;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;120,26;

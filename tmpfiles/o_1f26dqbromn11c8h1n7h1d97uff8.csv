@@ -1,0 +1,36 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;2.474,06;
+27 / 5;   ACQUISTI DIVERSI;2.474,06;
+27 / 5 / 34;      Acquisti vari deducibili;721,32;
+27 / 5 / 35;      Materiali di consumo;1.752,74;
+29;COSTI PER SERVIZI;8.521,32;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);419,22;
+29 / 5 / 13;      Acqua e gas;419,22;
+29 / 15;   COSTI PER SERVIZI (GENERALI);8.102,10;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;120,45;
+29 / 15 / 47;      Spese bancarie;44,32;
+29 / 15 / 53;      Servizi amministrativi e contabili;582,82;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;927,16;
+29 / 15 / 55;      Spese per consulenza del lavoro;4.272,90;
+29 / 15 / 69;      Altre Spese condominiali ded.;761,15;
+29 / 15 / 81;      Altre spese deducibili;16,90;
+29 / 15 / 1003;      Servizi di sorveglianza;360,00;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;1.016,40;
+31;COSTI PER GODIMENTO BENI DI TERZI;12.196,40;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;12.196,40;
+31 / 5 / 1;      Locazione stabilimenti;11.806,40;
+31 / 5 / 24;      Noleggi attrezzature ed altri beni;390,00;
+33;COSTI PER IL PERSONALE;113.459,21;
+33 / 5;   SALARI E STIPENDI;79.320,00;
+33 / 5 / 3;      Salari operai;79.320,00;
+33 / 10;   ONERI SOCIALI;34.139,21;
+33 / 10 / 4;      Oneri sociali per operai;1.627,75;
+33 / 10 / 1001;      Contributi dipendenti;32.511,46;
+38;ONERI DIVERSI DI GESTIONE;189,52;
+38 / 5;   ONERI DIVERSI DI GESTIONE;189,52;
+38 / 5 / 9;      Imposta di registro;60,00;
+38 / 5 / 28;      Diritti camerali (CCIAA);129,52;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;158.260,50
+44 / 15;   RICAVI DELLE PRESTAZIONI;;156.260,50
+44 / 15 / 1;      Prestazioni di servizi Italia;;156.260,50
+44 / 20;   CESSIONE CESPITI AMMORTIZZABILI;;2.000,00
+44 / 20 / 2;      Cessione attrezzature;;2.000,00

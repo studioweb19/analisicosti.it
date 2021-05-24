@@ -1,0 +1,54 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0;18948,07
+47.01;VENDITE PRODOTTI FINITI E MERCI;0;178,78
+47.01.92;Vendite Online;0;178,78
+47.07;CORRISPETTIVI;0;18679,09
+47.07.01;Corrispettivi;0;18679,09
+47.07.01;(A) Acquariologia;0;4175,64
+47.07.01;(D) Animali Domestici;0;7779,57
+47.07.01;(R) Rettili;0;6721,13
+47.07.01;Shopper;0;2,75
+47.09;RICAVI ACCESSORI DI VENDITA;0;90,2
+47.09.01;Rivalsa spese di trasporto e installaz.;0;90,2
+55;ACQUISTI DI BENI;11680,97;0
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;11350,24;0
+55.01.07;Acquisti merci per la rivendita;11350,24;0
+55.01.07;(A)Acquariologia;1430;0
+55.01.07;(D) Animali Domestici;6993,3;0
+55.01.07;(R) Rettili;2926,94;0
+55.07;ACQUISTI DIVERSI;330,73;0
+55.07.51;Materiale vario di consumo;330,73;0
+57;ACQUISTI DI SERVIZI;1678,68;0
+57.09;COSTI PER UTENZE;1589,21;0
+57.09.01;Spese telefoniche ordinarie;143,71;0
+57.09.01.01;Spese telefoniche ordinarie;143,71;0
+57.09.13;Energia elettrica;1102,65;0
+57.09.13.01;Energia elettrica;1102,65;0
+57.09.15;Riscaldamento;342,85;0
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;89,47;0
+57.11.07;Altre spese manutenzione beni propri;25;0
+57.11.07.01;Altre spese manutenzione beni propri;25;0
+57.11.09;Canoni manut.impianti e macchin.propri;64,47;0
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;1352,36;0
+63.01;SPESE COMMERCIALI E DI VIAGGIO;695;0
+63.01.09;Spese per alberghi e ristoranti;695;0
+63.01.09.03;Sp.alberghi,rist(rappr.con limite ricavi);695;0
+63.05;SPESE AMMINISTRATIVE E GENERALI;657,36;0
+63.05.01;Spese postali;35,56;0
+63.05.07;Servizi contabili di terzi;534,91;0
+63.05.17;Servizi di vigilanza;70,5;0
+63.05.25;Assistenza software;16,39;0
+65;COSTI PER GODIMENTO BENI DI TERZI;2780,4;0
+65.01;GESTIONE IMMOBILI;2780,4;0
+65.01.05;Canoni locazione immobili;2780,4;0
+65.01.05.01;Canoni locazione immobili deducibili;2780,4;0
+71;ONERI DIVERSI DI GESTIONE;615;0
+71.01;ONERI TRIBUTARI;173,83;0
+71.01.07;Imposta di registro e concess. govern.;173,83;0
+71.03;ALTRI COSTI DI ESERCIZIO;441,17;0
+71.03.09;Cancelleria varia;122,87;0
+71.03.51;Costi e spese diverse;318,3;0
+80;AMMORTAMENTI;63,04;0
+80.05;AMM.TI CIVILISTICI IMMOBILIZZ. MATERIALI;8,24;0
+80.05.27;Amm.to civilistico mobili e arredi;8,24;0
+80.07;AMM.TI CIVILISTICI IMMOBILIZZ. IMMATER.;54,8;0
+80.07.19;Amm.to civilistico avviamento;54,8;0

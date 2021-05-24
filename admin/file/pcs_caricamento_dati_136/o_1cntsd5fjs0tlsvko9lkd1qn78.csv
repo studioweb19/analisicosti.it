@@ -1,0 +1,84 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0;36012,1
+47.01;VENDITE PRODOTTI FINITI E MERCI;0;102,4
+47.01.92;Vendite Online;0;102,4
+47.07;CORRISPETTIVI;0;35876,9
+47.07.01;Corrispettivi;0;35876,9
+47.07.01;(A) Acquariologia;0;7729,24
+47.07.01;(D) Animali Domestici;0;14077,61
+47.07.01;(R) Rettili;0;14070,05
+47.09;RICAVI ACCESSORI DI VENDITA;0;32,8
+47.09.01;Rivalsa spese di trasporto e installaz.;0;32,8
+53;ALTRI RICAVI E PROVENTI;0;320,82
+53.01;PROVENTI DIVERSI;0;0,3
+53.01.29;Arrotondamenti attivi diversi;0;0,3
+53.09;COMPONENTI POSITIVI DA EVENTI STRAORD.;0;320,52
+53.09.01;Plusvalenze da eventi straordinari;0;320,52
+53.09.01.11;Plusv.e altri proventi da eventi straor.;0;320,52
+55;ACQUISTI DI BENI;22480,79;0
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;22030,5;0
+55.01.07;Acquisti merci per la rivendita;22030,5;0
+55.01.07;(A)Acquariologia;5594,69;0
+55.01.07;(D) Animali Domestici;11552,05;0
+55.01.07;(R) Rettili;4883,76;0
+55.05;VARIAZIONI ATTIVE SU ACQUISTI;0,06;0
+55.05.03;Abbuoni e arrotond.attivi su acquisti;0,06;0
+55.05.03.01;Abb.e arrotond.attivi su acquisti;0,06;0
+55.07;ACQUISTI DIVERSI;450,23;0
+55.07.51;Materiale vario di consumo;450,23;0
+57;ACQUISTI DI SERVIZI;3058,81;0
+57.03;COSTI ACCESSORI PER VENDITE;6,75;0
+57.03.01;Trasporti su vendite;6,75;0
+57.05;COSTI ACCESSORI PER ACQUISTI;27,65;0
+57.05.01;Trasporti su acquisti;27,65;0
+57.05.01.01;Trasporti su acquisti;27,65;0
+57.09;COSTI PER UTENZE;2823,51;0
+57.09.01;Spese telefoniche ordinarie;337,98;0
+57.09.01.01;Spese telefoniche ordinarie;337,98;0
+57.09.13;Energia elettrica;1907,75;0
+57.09.13.01;Energia elettrica;1907,75;0
+57.09.15;Riscaldamento;461,19;0
+57.09.17;Acqua potabile;116,59;0
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;180;0
+57.11.07;Altre spese manutenzione beni propri;50;0
+57.11.07.01;Altre spese manutenzione beni propri;50;0
+57.11.09;Canoni manut.impianti e macchin.propri;130;0
+57.13;MANUTENZIONE FABBRICATI;20,9;0
+57.13.01;Spese manutenzione fabbricati;20,9;0
+57.13.01.13;Spese manut.su immobili di terzi;20,9;0
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;2604,36;0
+63.01;SPESE COMMERCIALI E DI VIAGGIO;1169,5;0
+63.01.09;Spese per alberghi e ristoranti;1169,5;0
+63.01.09.03;Sp.alberghi,rist(rappr.con limite ricavi);1169,5;0
+63.05;SPESE AMMINISTRATIVE E GENERALI;1434,86;0
+63.05.07;Servizi contabili di terzi;832;0
+63.05.11;Altre spese amministrative;34,66;0
+63.05.17;Servizi di vigilanza;493,5;0
+63.05.23;Valori bollati;74,7;0
+65;COSTI PER GODIMENTO BENI DI TERZI;8335,05;0
+65.01;GESTIONE IMMOBILI;8335,05;0
+65.01.05;Canoni locazione immobili;8335,05;0
+65.01.05.01;Canoni locazione immobili deducibili;8335,05;0
+71;ONERI DIVERSI DI GESTIONE;11096;0
+71.01;ONERI TRIBUTARI;596,85;0
+71.01.05;Diritti camerali;120,48;0
+71.01.07;Imposta di registro e concess. govern.;476,37;0
+71.03;ALTRI COSTI DI ESERCIZIO;10499,15;0
+71.03.01;Spese, perdite e sopravvenienze passive;8878,41;0
+71.03.01.05;Spese, perdite e sopravv.passive inded.;8878,41;0
+71.03.03;Sanzioni, penalit… e multe;1168,92;0
+71.03.09;Cancelleria varia;58,32;0
+71.03.17;Arrotondamenti passivi diversi;0,03;0
+71.03.51;Costi e spese diverse;393,47;0
+75;ONERI FINANZIARI;494,71;0
+75.01;ONERI FINANZIARI VERSO BANCHE;478,29;0
+75.01.01;Interessi passivi bancari;2,38;0
+75.01.07;Commissioni e spese bancarie;475,91;0
+75.03;ONERI FINANZIARI DIVERSI;16,42;0
+75.03.27;Interessi passivi di mora;16,42;0
+75.03.27.01;Interessi passivi di mora pagati;16,42;0
+80;AMMORTAMENTI;9,7;0
+80.05;AMM.TI CIVILISTICI IMMOBILIZZ. MATERIALI;9,7;0
+80.05.27;Amm.to civilistico mobili e arredi;9,7;0
+84;IMPOSTE DELL'ESERCIZIO;1260;0
+84.01;IMPOSTE DELL'ESERCIZIO;1260;0
+84.01.01;IRES corrente;1260;0

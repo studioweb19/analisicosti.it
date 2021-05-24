@@ -1,0 +1,191 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.datepicker-dropdown {
+   z-index:10000 !important;
+}
+
+.navbar-custom {
+   background-color:#1675b7;
+   color:#ffffff;
+   border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+   color:#fff;
+}
+
+.navbar-custom .navbar-brand {
+   color:#cccccc;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+   text-decoration: none;
+   background-color: #1675b7;
+   color:#cccccc;
+}
+
+
+.vertical-space {
+   margin-bottom:20px;
+}
+
+.profile-img
+{
+   width: 96px;
+   height: 96px;
+   margin: 0 auto 10px;
+   display: block;
+   -moz-border-radius: 50%;
+   -webkit-border-radius: 50%;
+   border-radius: 50%;
+}
+
+.broker-studio_dashboard{ padding:0px; text-align:center;}
+.broker-studio_dashboard ul{ display:inline-table;}
+.broker-studio_dashboard li{margin:0 auto; display:inline-table; width:170px; list-style:none; margin:16px; padding:10px; border-radius:10px; border:1px solid #dadada; box-shadow:0px 0px 8px #999;}
+.broker-studio_dashboard li a{	display:table-cell; color:#475D75; text-decoration:none; text-shadow:0px 0px 5px #999; }
+.broker-studio_dashboard li a:focus{outline:none!important;}
+
+.broker-studio_dashboard li a i{font-size:70px; line-height:90px; clear:left;
+   transition-property:color;
+   transition-duration:0.5s;
+
+   -moz-transition-property:color;
+   -moz-transition-duration:0.5s;
+
+   -webkit-transition-property:color;
+   -webkit-transition-duration:0.5s;
+
+   -o-transition-property:color;
+   -o-transition-duration:0.5s;
+}
+
+.broker-studio_dashboard li a i:hover{color:#69C; }
+
+
+.broker-studio_dashboard li a span{ display:block; font-size:15px;}
+
+.row-new {
+   margin-right: -15px;
+   margin-left: -15px;
+}
+
+.well {
+   padding:10px;
+}
+
+.border-dashed {
+   border:2px dotted black;
+   margin-top:10px;
+   padding-top:10px;
+   padding-bottom:10px;
+}
+
+.green {
+   color: green;
+}
+
+.red {
+   color: red;
+}
+
+.container-full {
+   margin: 0 auto;
+   width: 100%;
+}
+
+/* altezza del chosen container */
+.chosen-container-single .chosen-single {
+   height:34px;
+   line-height:34px;
+}
+
+.nascosto {
+   display:none;
+}
+
+
+.btn-file {
+   position: relative;
+   overflow: hidden;
+}
+.btn-file input[type=file] {
+   position: absolute;
+   top: 0;
+   right: 0;
+   min-width: 100%;
+   min-height: 100%;
+   font-size: 100px;
+   text-align: right;
+   filter: alpha(opacity=0);
+   opacity: 0;
+   outline: none;
+   background: white;
+   cursor: inherit;
+   display: block;
+}
+
+.hidden {
+   display:none;
+}
+
+.badge {
+   padding: 1px 9px 2px;
+   font-size: 12.025px;
+   font-weight: bold;
+   white-space: nowrap;
+   color: #ffffff;
+   background-color: #999999;
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+}
+
+/* https://codepen.io/MarcosBL/pen/uomCD */
+.badge:hover {
+   color: #ffffff;
+   text-decoration: none;
+   cursor: pointer;
+}
+.badge-error {
+   background-color: #b94a48;
+}
+.badge-error:hover {
+   background-color: #953b39;
+}
+.badge-warning {
+   background-color: #f89406;
+}
+.badge-warning:hover {
+   background-color: #c67605;
+}
+.badge-success {
+   background-color: #468847;
+}
+.badge-success:hover {
+   background-color: #356635;
+}
+.badge-info {
+   background-color: #3a87ad;
+}
+.badge-info:hover {
+   background-color: #2d6987;
+}
+.badge-inverse {
+   background-color: #333333;
+}
+.badge-inverse:hover {
+   background-color: #1a1a1a;
+}
+
+.popover{
+   max-width: 500px; /* Max Width of the popover (depending on the container!) */
+}
+
+.tooltip-inner {
+   text-align: left;
+}

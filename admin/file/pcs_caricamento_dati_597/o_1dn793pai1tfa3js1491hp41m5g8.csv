@@ -1,0 +1,84 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;75.272,22;
+27 / 5;   ACQUISTI DIVERSI;75.272,22;
+27 / 5 / 1;      Materie prime;30.881,24;
+27 / 5 / 3;      Materie di consumo;22.100,15;
+27 / 5 / 4;      Merci;17.051,45;
+27 / 5 / 8;      Carbur./lubrific.autovetture ded.;4.826,65;
+27 / 5 / 30;      Acqu.beni inf. a 516,46 Euro ded.;240,00;
+27 / 5 / 34;      Acquisti vari deducibili;172,73;
+29;COSTI PER SERVIZI;77.151,18;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);29.853,82;
+29 / 5 / 1;      Spese di trasporto su acquisti;226,70;
+29 / 5 / 7;      Lavorazioni esterne;22.150,52;
+29 / 5 / 11;      Energia elettrica uso industriale;6.073,80;
+29 / 5 / 12;      Spese di riscaldamento;1.178,69;
+29 / 5 / 13;      Acqua e gas;144,13;
+29 / 5 / 16;      Servizi vari deducibili;79,98;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);1.112,19;
+29 / 10 / 12;      Sponsorizzazioni;400,00;
+29 / 10 / 13;      Spese di rappresentanza deducibili;374,40;
+29 / 10 / 31;      Ag.viaggio-acquisti fuori UE;337,79;
+29 / 15;   COSTI PER SERVIZI (GENERALI);46.185,17;
+29 / 15 / 6;      Assicurazioni autocarri;3.451,79;
+29 / 15 / 7;      Assicurazioni diverse;135,96;
+29 / 15 / 8;      Sp.viaggio,vitto,all.dipend.ded.;115,37;
+29 / 15 / 12;      Manut./ripar.autov.proprie ded.;3.175,58;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;1.753,70;
+29 / 15 / 30;      Pedaggi autostradali deducibili;447,51;
+29 / 15 / 39;      INAIL amministratori;5.364,64;
+29 / 15 / 40;      Emolumenti collegio sindacale;240,00;
+29 / 15 / 44;      Spese postali;5,00;
+29 / 15 / 45;      Spese telefoniche e adsl (ded.100%;1.339,34;
+29 / 15 / 47;      Spese bancarie;4.984,22;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;798,64;
+29 / 15 / 52;      Spese legali e di consulenza;2.264,24;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;16.551,69;
+29 / 15 / 55;      Spese per consulenza del lavoro;1.100,00;
+29 / 15 / 57;      Visite ed esami medici per dipend.;1.398,00;
+29 / 15 / 60;      Spese servizi mensa gestiti estern;360,00;
+29 / 15 / 65;      Serv.vari gener.e amministr.ded.;148,43;
+29 / 15 / 75;      Altre utenze;1.240,50;
+29 / 15 / 76;      Spese telefoni cellulari ded.50%;543,59;
+29 / 15 / 81;      Altre spese deducibili;766,97;
+31;COSTI PER GODIMENTO BENI DI TERZI;19.200,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;19.200,00;
+31 / 5 / 15;      Canoni d'affitto d'azienda ded.;19.200,00;
+33;COSTI PER IL PERSONALE;63.621,11;
+33 / 5;   SALARI E STIPENDI;47.313,60;
+33 / 5 / 3;      Salari operai;47.313,60;
+33 / 10;   ONERI SOCIALI;13.000,22;
+33 / 10 / 10;      Contributi assistenziali;13.000,22;
+33 / 15;   TRATTAMENTO DI FINE RAPPORTO;3.307,29;
+33 / 15 / 3;      Accant. fondo TFR altri dipendenti;3.307,29;
+35;AMMORTAMENTI E SVALUTAZIONI;4.773,54;
+35 / 5;   AMMORTAMENTO IMMOBILIZZ.IMMATERIALI;55,60;
+35 / 5 / 9;      Amm.brevetti;55,60;
+35 / 10;   AMMORTAMENTO IMMOBILIZZ.MATERIALI;4.717,94;
+35 / 10 / 8;      Amm.macchinari;2.472,50;
+35 / 10 / 16;      Amm.autocarri;2.245,44;
+36;RIMANENZE INIZIALI;625,00;
+36 / 5;   RIM.INIZ.MAT.PRIME,SUSS.,DI CONSUMO;625,00;
+36 / 5 / 1;      Rim.iniz.mat.prime,suss.,di consum;625,00;
+38;ONERI DIVERSI DI GESTIONE;2.654,41;
+38 / 5;   ONERI DIVERSI DI GESTIONE;2.654,41;
+38 / 5 / 1;      Tasse vidimazione libri;309,87;
+38 / 5 / 2;      Tasse di possesso autovett.ded.;619,31;
+38 / 5 / 11;      Tassa raccolta rifiuti;1.524,00;
+38 / 5 / 18;      Spese di cancelleria;55,79;
+38 / 5 / 24;      Valori bollati;4,00;
+38 / 5 / 26;      Arrotondamenti passivi;15,94;
+38 / 5 / 28;      Diritti camerali (CCIAA);125,50;
+39;ONERI FINANZIARI;4.904,02;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;4.904,02;
+39 / 5 / 5;      Int.ed oneri su debiti v/banche;3.187,80;
+39 / 5 / 6;      Int.passivi su mutui;1.570,86;
+39 / 5 / 14;      Interessi ed oneri su altri debiti;145,36;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;229.332,60
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;229.332,60
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;229.332,60
+45;RIMANENZE FINALI;;1.070,00
+45 / 10;   RIMAN.FINALI MERCI,AGGI,PROD.,OPERE;;1.070,00
+45 / 10 / 3;      Rimanenze finali merci;;1.070,00
+47;ALTRI RICAVI E PROVENTI;;4,49
+47 / 5;   ALTRI RICAVI E PROVENTI;;4,49
+47 / 5 / 29;      Abbuoni attivi;;4,49

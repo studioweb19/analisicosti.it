@@ -1,0 +1,53 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;28.239,45;
+27 / 5;   ACQUISTI DIVERSI;28.239,45;
+27 / 5 / 1;      Materie prime;11.289,00;
+27 / 5 / 2;      Materie sussidiarie,imballaggi,ecc;237,00;
+27 / 5 / 3;      Materie di consumo;6.123,33;
+27 / 5 / 4;      Merci;9.016,26;
+27 / 5 / 8;      Carbur./lubrific.autovetture ded.;1.573,86;
+29;COSTI PER SERVIZI;18.686,77;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);5.595,57;
+29 / 5 / 1;      Spese di trasporto su acquisti;22,40;
+29 / 5 / 7;      Lavorazioni esterne;3.295,24;
+29 / 5 / 11;      Energia elettrica uso industriale;1.740,68;
+29 / 5 / 12;      Spese di riscaldamento;343,38;
+29 / 5 / 13;      Acqua e gas;193,87;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);104,00;
+29 / 10 / 13;      Spese di rappresentanza deducibili;104,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);12.987,20;
+29 / 15 / 7;      Assicurazioni diverse;101,97;
+29 / 15 / 12;      Manut./ripar.autov.proprie ded.;832,57;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;1.322,65;
+29 / 15 / 30;      Pedaggi autostradali deducibili;84,93;
+29 / 15 / 45;      Spese telefoniche e adsl (ded.100%;204,46;
+29 / 15 / 47;      Spese bancarie;1.441,48;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;150,00;
+29 / 15 / 52;      Spese legali e di consulenza;3.018,73;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;5.500,00;
+29 / 15 / 76;      Spese telefoni cellulari ded.50%;138,41;
+29 / 15 / 81;      Altre spese deducibili;192,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;4.800,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;4.800,00;
+31 / 5 / 15;      Canoni d'affitto d'azienda ded.;4.800,00;
+33;COSTI PER IL PERSONALE;16.078,29;
+33 / 5;   SALARI E STIPENDI;10.682,20;
+33 / 5 / 3;      Salari operai;10.682,20;
+33 / 10;   ONERI SOCIALI;2.927,88;
+33 / 10 / 10;      Contributi assistenziali;2.927,88;
+33 / 25;   ALTRI COSTI;2.468,21;
+33 / 25 / 99;      Altri costi del personale;2.468,21;
+38;ONERI DIVERSI DI GESTIONE;409,26;
+38 / 5;   ONERI DIVERSI DI GESTIONE;409,26;
+38 / 5 / 1;      Tasse vidimazione libri;309,87;
+38 / 5 / 2;      Tasse di possesso autovett.ded.;98,56;
+38 / 5 / 26;      Arrotondamenti passivi;0,83;
+39;ONERI FINANZIARI;603,32;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;603,32;
+39 / 5 / 5;      Int.ed oneri su debiti v/banche;249,24;
+39 / 5 / 6;      Int.passivi su mutui;354,08;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;65.551,77
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;65.551,77
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;65.551,77
+47;ALTRI RICAVI E PROVENTI;;0,72
+47 / 5;   ALTRI RICAVI E PROVENTI;;0,72
+47 / 5 / 29;      Abbuoni attivi;;0,72

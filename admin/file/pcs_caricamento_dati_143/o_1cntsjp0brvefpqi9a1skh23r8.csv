@@ -1,0 +1,53 @@
+Codice conto formattato indentato;Descrizione conto;Saldo rettificato Dare;Saldo rettificato avere
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0;11331,17
+  47.01;VENDITE PRODOTTI FINITI E MERCI;0;139,29
+    47.01.92;Vendite Online;0;139,29
+  47.07;CORRISPETTIVI;0;11118,08
+    47.07.01;Corrispettivi;0;11118,08
+    47.07.01;(A) Acquariologia;0;2162,85
+    47.07.01;(D) Animali Domestici;0;4735,72
+    47.07.01;(R) Rettili;0;4218
+    47.07.01;Shopper;0;1,51
+  47.09;RICAVI ACCESSORI DI VENDITA;0;73,8
+    47.09.01;Rivalsa spese di trasporto e installaz.;0;73,8
+55;ACQUISTI DI BENI;7365,22;0
+  55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;7115,94;0
+    55.01.07;Acquisti merci per la rivendita;7115,94;0
+    55.01.07;(A)Acquariologia;1196;0
+    55.01.07;(D) Animali Domestici;4253,14;0
+    55.01.07;(R) Rettili;1666,8;0
+  55.07;ACQUISTI DIVERSI;249,28;0
+    55.07.51;Materiale vario di consumo;249,28;0
+57;ACQUISTI DI SERVIZI;1199,88;0
+  57.09;COSTI PER UTENZE;1110,41;0
+    57.09.01;Spese telefoniche ordinarie;143,71;0
+      57.09.01.01;Spese telefoniche ordinarie;143,71;0
+    57.09.13;Energia elettrica;754,17;0
+      57.09.13.01;Energia elettrica;754,17;0
+    57.09.15;Riscaldamento;212,53;0
+  57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;89,47;0
+    57.11.07;Altre spese manutenzione beni propri;25;0
+      57.11.07.01;Altre spese manutenzione beni propri;25;0
+    57.11.09;Canoni manut.impianti e macchin.propri;64,47;0
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;861,6;0
+  63.01;SPESE COMMERCIALI E DI VIAGGIO;520;0
+    63.01.09;Spese per alberghi e ristoranti;520;0
+      63.01.09.03;Sp.alberghi,rist(rappr.con limite ricavi);520;0
+  63.05;SPESE AMMINISTRATIVE E GENERALI;341,6;0
+    63.05.01;Spese postali;35,56;0
+    63.05.07;Servizi contabili di terzi;219,15;0
+    63.05.17;Servizi di vigilanza;70,5;0
+    63.05.25;Assistenza software;16,39;0
+65;COSTI PER GODIMENTO BENI DI TERZI;1390,2;0
+  65.01;GESTIONE IMMOBILI;1390,2;0
+    65.01.05;Canoni locazione immobili;1390,2;0
+      65.01.05.01;Canoni locazione immobili deducibili;1390,2;0
+71;ONERI DIVERSI DI GESTIONE;326,76;0
+  71.03;ALTRI COSTI DI ESERCIZIO;326,76;0
+    71.03.09;Cancelleria varia;122,87;0
+    71.03.51;Costi e spese diverse;203,89;0
+80;AMMORTAMENTI;41,39;0
+  80.05;AMM.TI CIVILISTICI IMMOBILIZZ. MATERIALI;5,39;0
+    80.05.27;Amm.to civilistico mobili e arredi;5,39;0
+  80.07;AMM.TI CIVILISTICI IMMOBILIZZ. IMMATER.;36;0
+    80.07.19;Amm.to civilistico avviamento;36;0

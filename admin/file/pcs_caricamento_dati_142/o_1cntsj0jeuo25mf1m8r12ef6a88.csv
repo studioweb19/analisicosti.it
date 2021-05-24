@@ -1,0 +1,49 @@
+Codice conto formattato indentato;Descrizione conto;Saldo rettificato Dare;Saldo rettificato avere
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0;6188,57
+  47.01;VENDITE PRODOTTI FINITI E MERCI;0;81,02
+    47.01.92;Vendite Online;0;81,02
+  47.07;CORRISPETTIVI;0;6058,35
+    47.07.01;Corrispettivi;0;6058,35
+    47.07.01;(A) Acquariologia;0;1159,26
+    47.07.01;(D) Animali Domestici;0;2607,71
+    47.07.01;(R) Rettili;0;2289,87
+    47.07.01;Shopper;0;1,51
+  47.09;RICAVI ACCESSORI DI VENDITA;0;49,2
+    47.09.01;Rivalsa spese di trasporto e installaz.;0;49,2
+55;ACQUISTI DI BENI;3427,01;0
+  55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;3290,19;0
+    55.01.07;Acquisti merci per la rivendita;3290,19;0
+    55.01.07;(A)Acquariologia;271,72;0
+    55.01.07;(D) Animali Domestici;1943,22;0
+    55.01.07;(R) Rettili;1075,25;0
+  55.07;ACQUISTI DIVERSI;136,82;0
+    55.07.51;Materiale vario di consumo;136,82;0
+57;ACQUISTI DI SERVIZI;598,77;0
+  57.09;COSTI PER UTENZE;509,3;0
+    57.09.13;Energia elettrica;419,77;0
+      57.09.13.01;Energia elettrica;419,77;0
+    57.09.15;Riscaldamento;89,53;0
+  57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;89,47;0
+    57.11.07;Altre spese manutenzione beni propri;25;0
+      57.11.07.01;Altre spese manutenzione beni propri;25;0
+    57.11.09;Canoni manut.impianti e macchin.propri;64,47;0
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;326,89;0
+  63.01;SPESE COMMERCIALI E DI VIAGGIO;240;0
+    63.01.09;Spese per alberghi e ristoranti;240;0
+      63.01.09.03;Sp.alberghi,rist(rappr.con limite ricavi);240;0
+  63.05;SPESE AMMINISTRATIVE E GENERALI;86,89;0
+    63.05.17;Servizi di vigilanza;70,5;0
+    63.05.25;Assistenza software;16,39;0
+65;COSTI PER GODIMENTO BENI DI TERZI;1390,2;0
+  65.01;GESTIONE IMMOBILI;1390,2;0
+    65.01.05;Canoni locazione immobili;1390,2;0
+      65.01.05.01;Canoni locazione immobili deducibili;1390,2;0
+71;ONERI DIVERSI DI GESTIONE;240,86;0
+  71.03;ALTRI COSTI DI ESERCIZIO;240,86;0
+    71.03.09;Cancelleria varia;122,87;0
+    71.03.51;Costi e spese diverse;117,99;0
+80;AMMORTAMENTI;21,62;0
+  80.05;AMM.TI CIVILISTICI IMMOBILIZZ. MATERIALI;2,82;0
+    80.05.27;Amm.to civilistico mobili e arredi;2,82;0
+  80.07;AMM.TI CIVILISTICI IMMOBILIZZ. IMMATER.;18,8;0
+    80.07.19;Amm.to civilistico avviamento;18,8;0

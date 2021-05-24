@@ -1,0 +1,42 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;6891,89
+47.01;VENDITE PRODOTTI FINITI E MERCI;0,00;598,40
+47.01.03;Vendita merci;0,00;598,40
+47.07;CORRISPETTIVI;0,00;6293,49
+47.07.01;Corrispettivi;0,00;6293,49
+47.07.01;VENDITA PRODUZIONE PROPRIA;0,00;6293,49
+55;ACQUISTI DI BENI;3057,43;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;2830,49;
+55.01.01;Acquisti materie prime;2575,73;
+55.01.05;Acquisti materiali di consumo;53,27;
+55.01.07;Acquisti merci per la rivendita;113,49;
+55.01.09;Confezioni e imballi;88,00;
+55.07;ACQUISTI DIVERSI;226,94;
+55.07.01;Acquisto beni strumentali inf.516,46;207,80;
+55.07.51;Materiale vario di consumo;19,14;
+57;ACQUISTI DI SERVIZI;257,36;
+57.01;SERVIZI PER LA PRODUZIONE;77,58;
+57.01.51;Altri servizi per la produzione;77,58;
+57.09;COSTI PER UTENZE;179,78;
+57.09.13;Energia elettrica;179,78;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;1,80;
+63.05;SPESE AMMINISTRATIVE E GENERALI;1,80;
+63.05.11;Altre spese amministrative;1,80;
+65;COSTI PER GODIMENTO BENI DI TERZI;2146,54;
+65.01;GESTIONE IMMOBILI;2146,54;
+65.01.05;Canoni locazione immobili;2146,54;
+71;ONERI DIVERSI DI GESTIONE;0,00;
+71.03;ALTRI COSTI DI ESERCIZIO;0,00;
+71.03.01;Spese, perdite e sopravvenienze passive;0,00;
+80;AMMORTAMENTI;3549,25;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;189,54;
+80.01.11;Amm.to costi di pubblicita';189,54;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;3359,71;
+80.03.23;Amm.to ordinario impianti specifici;38,38;
+80.03.27;Amm.to ordinario macchinari automatici;25,74;
+80.03.29;Amm.to ordin.altri impianti e macchinari;124,91;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;147,79;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;106,04;
+80.03.35;Amm.to ordinario mobili e arredi;2004,24;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;99,87;
+80.03.47;Amm.to ordinario telefonia mobile;23,66;
+80.03.49;Ammortamento ordinario veicoli;789,08;

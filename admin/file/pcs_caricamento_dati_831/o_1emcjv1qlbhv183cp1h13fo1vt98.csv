@@ -1,0 +1,26 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;229,80;
+27 / 5;   ACQUISTI DIVERSI;229,80;
+27 / 5 / 16;      Materiale di cancelleria;15,12;
+27 / 5 / 30;      Acqu.beni inf. a 516,46 Euro ded.;49,13;
+27 / 5 / 34;      Acquisti vari deducibili;17,10;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;28,40;
+27 / 5 / 45;      Acqu.beni inf.a 516,46 Euro ded.80;120,05;
+29;COSTI PER SERVIZI;24.858,48;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);267,50;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);267,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);24.590,98;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;270,00;
+29 / 15 / 11;      Servizi vari commerciali;18.790,61;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);101,50;
+29 / 15 / 61;      Spese buoni pasto per dipendenti;61,20;
+29 / 15 / 81;      Altre spese deducibili;743,75;
+29 / 15 / 98;      Pedaggi autostradali (ded.20%);118,25;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;134,07;
+29 / 15 / 1010;      Serv.prest.rese da prof.Minimi/For;4.371,60;
+31;COSTI PER GODIMENTO BENI DI TERZI;2.259,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;2.259,00;
+31 / 5 / 3;      Locazione uffici;2.259,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;101.981,37
+44 / 15;   RICAVI DELLE PRESTAZIONI;;101.981,37
+44 / 15 / 1;      Prestazioni di servizi Italia;;98.992,57
+44 / 15 / 2;      Prestazioni di servizi estero;;2.988,80

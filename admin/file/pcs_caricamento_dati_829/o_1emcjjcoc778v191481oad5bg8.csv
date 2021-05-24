@@ -1,0 +1,48 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;674,59;
+27 / 5;   ACQUISTI DIVERSI;674,59;
+27 / 5 / 17;      Materiale pubblicit.e di propag.;31,82;
+27 / 5 / 34;      Acquisti vari deducibili;522,37;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;120,40;
+29;COSTI PER SERVIZI;81.623,17;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);2.745,49;
+29 / 5 / 16;      Servizi vari deducibili;2.745,49;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);906,26;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;523,00;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);383,26;
+29 / 15;   COSTI PER SERVIZI (GENERALI);77.971,42;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;198,62;
+29 / 15 / 11;      Servizi vari commerciali;53.519,77;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);785,71;
+29 / 15 / 53;      Servizi amministrativi e contabili;3.909,13;
+29 / 15 / 81;      Altre spese deducibili;4.376,23;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;976,27;
+29 / 15 / 1004;      Spese corsi (ded. 100%);120,00;
+29 / 15 / 1010;      Serv.prest.rese da prof.Minimi/For;13.795,61;
+29 / 15 / 5001;"      Servizio "" Call Tracking Tel.""";290,08;
+31;COSTI PER GODIMENTO BENI DI TERZI;10.272,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;10.272,00;
+31 / 5 / 3;      Locazione uffici;9.200,00;
+31 / 5 / 20;      Corrispettivi licenze software;1.072,00;
+33;COSTI PER IL PERSONALE;37.244,43;
+33 / 5;   SALARI E STIPENDI;20.289,81;
+33 / 5 / 1001;      Stipendi e salari;20.289,81;
+33 / 10;   ONERI SOCIALI;14.986,84;
+33 / 10 / 1001;      Contributi dipendenti;14.986,84;
+33 / 15;   TRATTAMENTO DI FINE RAPPORTO;1.967,78;
+33 / 15 / 6;      TFR corrisposto ad altri dipendent;1.967,78;
+35;AMMORTAMENTI E SVALUTAZIONI;2.646,40;
+35 / 5;   AMMORTAMENTO IMMOBILIZZ.IMMATERIALI;283,10;
+35 / 5 / 99;      Amm.altre immobilizz.immateriali;283,10;
+35 / 10;   AMMORTAMENTO IMMOBILIZZ.MATERIALI;2.363,30;
+35 / 10 / 8;      Amm.macchinari;572,62;
+35 / 10 / 11;      Amm.mobili e macch.ordin.d'ufficio;456,75;
+35 / 10 / 12;      Amm.macchine ufficio elettroniche;1.333,93;
+38;ONERI DIVERSI DI GESTIONE;289,23;
+38 / 5;   ONERI DIVERSI DI GESTIONE;289,23;
+38 / 5 / 28;      Diritti camerali (CCIAA);125,00;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;164,23;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;244.312,06
+44 / 15;   RICAVI DELLE PRESTAZIONI;;244.312,06
+44 / 15 / 1;      Prestazioni di servizi Italia;;232.172,06
+44 / 15 / 2;      Prestazioni di servizi estero;;11.600,00
+44 / 15 / 5002;      Docenze;;540,00

@@ -1,0 +1,35 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;44.821,47;
+27 / 5;   ACQUISTI DIVERSI;44.821,47;
+27 / 5 / 1;      Materie prime;12.955,96;
+27 / 5 / 4;      Merci;382,74;
+27 / 5 / 13;      Carburanti/lubrificanti autocarri;1.516,38;
+27 / 5 / 16;      Materiale di cancelleria;19,66;
+27 / 5 / 34;      Acquisti vari deducibili;249,65;
+27 / 5 / 35;      Materiali di consumo;58,11;
+27 / 5 / 1005;      Mat.prime, di consumo e merci;29.638,97;
+29;COSTI PER SERVIZI;10.164,79;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);2.377,00;
+29 / 5 / 7;      Lavorazioni esterne;2.377,00;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);434,91;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);434,91;
+29 / 15;   COSTI PER SERVIZI (GENERALI);7.352,88;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;295,71;
+29 / 15 / 12;      Manut./ripar.autov.proprie ded.;73,77;
+29 / 15 / 22;      Manut./ripar.autocarri propri;165,44;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;489,00;
+29 / 15 / 30;      Pedaggi autostradali deducibili;348,34;
+29 / 15 / 53;      Servizi amministrativi e contabili;2.350,20;
+29 / 15 / 81;      Altre spese deducibili;2.850,42;
+29 / 15 / 1004;      Spese corsi (ded. 100%);780,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;49,20;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;49,20;
+31 / 5 / 24;      Noleggi attrezzature ed altri beni;49,20;
+38;ONERI DIVERSI DI GESTIONE;569,68;
+38 / 5;   ONERI DIVERSI DI GESTIONE;569,68;
+38 / 5 / 28;      Diritti camerali (CCIAA);53,00;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;516,68;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;85.273,50
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;10.890,00
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;10.890,00
+44 / 15;   RICAVI DELLE PRESTAZIONI;;74.383,50
+44 / 15 / 1;      Prestazioni di servizi Italia;;74.383,50

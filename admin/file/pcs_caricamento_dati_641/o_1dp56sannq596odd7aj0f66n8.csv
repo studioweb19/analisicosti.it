@@ -1,0 +1,41 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;2.711,99;
+27 / 5;   ACQUISTI DIVERSI;2.711,99;
+27 / 5 / 3;      Materie di consumo;145,80;
+27 / 5 / 4;      Merci;655,00;
+27 / 5 / 32;      Acquisti vari indeducibili;24,40;
+27 / 5 / 34;      Acquisti vari deducibili;150,60;
+27 / 5 / 35;      Materiali di consumo;1.736,19;
+29;COSTI PER SERVIZI;16.694,99;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);1.766,66;
+29 / 5 / 11;      Energia elettrica uso industriale;1.729,16;
+29 / 5 / 22;      Mater.e merci utilizz.produz.serv.;37,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);14.928,33;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;113,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);294,75;
+29 / 15 / 47;      Spese bancarie;30,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;6.202,55;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;252,00;
+29 / 15 / 55;      Spese per consulenza del lavoro;1.987,60;
+29 / 15 / 64;      Servizi e spese di pulizia;540,00;
+29 / 15 / 69;      Altre Spese condominiali ded.;525,40;
+29 / 15 / 81;      Altre spese deducibili;249,00;
+29 / 15 / 1003;      Servizi di sorveglianza;90,00;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;706,25;
+29 / 15 / 5001;      Servizi per somministraz. lavoro;3.937,78;
+31;COSTI PER GODIMENTO BENI DI TERZI;6.918,97;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;6.918,97;
+31 / 5 / 1;      Locazione stabilimenti;6.918,97;
+33;COSTI PER IL PERSONALE;65.886,57;
+33 / 5;   SALARI E STIPENDI;53.039,65;
+33 / 5 / 3;      Salari operai;44.589,02;
+33 / 5 / 1011;      Lavoro in somministrazione;8.450,63;
+33 / 10;   ONERI SOCIALI;12.846,92;
+33 / 10 / 4;      Oneri sociali per operai;441,35;
+33 / 10 / 1001;      Contributi dipendenti;12.405,57;
+38;ONERI DIVERSI DI GESTIONE;102,00;
+38 / 5;   ONERI DIVERSI DI GESTIONE;102,00;
+38 / 5 / 9;      Imposta di registro;67,00;
+38 / 5 / 24;      Valori bollati;35,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;86.047,50
+44 / 15;   RICAVI DELLE PRESTAZIONI;;86.047,50
+44 / 15 / 1;      Prestazioni di servizi Italia;;86.047,50

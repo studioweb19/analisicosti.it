@@ -1,0 +1,49 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;4989,09
+47.01;VENDITE PRODOTTI FINITI E MERCI;0,00;705,20
+47.01.03;Vendita merci;0,00;705,20
+47.07;CORRISPETTIVI;0,00;4283,89
+47.07.01;Corrispettivi;0,00;4283,89
+47.07.01;VENDITA PRODUZIONE PROPRIA;0,00;4283,89
+55;ACQUISTI DI BENI;3569,46;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;3429,56;
+55.01.01;Acquisti materie prime;3195,84;
+55.01.07;Acquisti merci per la rivendita;205,86;
+55.01.17;Acquisti materiali vari;27,86;
+55.07;ACQUISTI DIVERSI;139,90;
+55.07.03;Attrezzatura minuta;95,38;
+55.07.51;Materiale vario di consumo;44,52;
+57;ACQUISTI DI SERVIZI;907,27;
+57.01;SERVIZI PER LA PRODUZIONE;334,00;
+57.01.51;Altri servizi per la produzione;334,00;
+57.09;COSTI PER UTENZE;573,27;
+57.09.03;Spese telefoniche radiomobili;349,83;
+57.09.13;Energia elettrica;223,44;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;492,75;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;260,00;
+63.01.03;Materiale pubblicitario;260,00;
+63.05;SPESE AMMINISTRATIVE E GENERALI;232,75;
+63.05.11;Altre spese amministrative;232,75;
+65;COSTI PER GODIMENTO BENI DI TERZI;2170,80;
+65.01;GESTIONE IMMOBILI;2170,80;
+65.01.05;Canoni locazione immobili;2170,80;
+67;COSTI PERSONALE DIPENDENTE;3054,14;
+67.01;COSTI PERSONALE DIPENDENTE;3054,14;
+67.01.01;Retribuzioni lorde;2336,90;
+67.01.03;Contributi INPS;634,45;
+67.01.09;Contrib.altri enti previdenz./assistenz.;82,79;
+71;ONERI DIVERSI DI GESTIONE;53,60;
+71.03;ALTRI COSTI DI ESERCIZIO;53,60;
+71.03.09;Cancelleria varia;53,60;
+80;AMMORTAMENTI;3636,81;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;237,99;
+80.01.11;Amm.to costi di pubblicita';189,54;
+80.01.53;Amm.to altre spese pluriennali;48,45;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;3398,82;
+80.03.27;Amm.to ordinario macchinari automatici;25,74;
+80.03.29;Amm.to ordin.altri impianti e macchinari;124,91;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;227,37;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;106,04;
+80.03.35;Amm.to ordinario mobili e arredi;2009,48;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;92,54;
+80.03.47;Amm.to ordinario telefonia mobile;23,66;
+80.03.49;Ammortamento ordinario veicoli;789,08;

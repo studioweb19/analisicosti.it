@@ -1,0 +1,90 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;202686,80
+47.07;CORRISPETTIVI;0,00;161442,62
+47.07.01;Corrispettivi;0,00;161442,62
+47.07.01;LEZIONI DI GRUPPO;0,00;85895,12
+47.07.01;LEZIONI INDIVIDUALI;0,00;75547,50
+47.11;RICAVI DA PRESTAZIONI;0,00;41244,18
+47.11.03;Prestazioni di servizi;0,00;41244,18
+53;ALTRI RICAVI E PROVENTI;0,00;512,19
+53.01;PROVENTI DIVERSI;0,00;512,19
+53.01.51;Altri ricavi e proventi;0,00;512,19
+73;PROVENTI FINANZIARI;0,00;0,02
+73.13;PROVENTI FINANZIARI VARI;0,00;0,02
+73.13.13;Interessi attivi diversi;0,00;0,02
+55;ACQUISTI DI BENI;11990,98;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;11,52;
+55.01.19;Oneri accessori su acquisti;11,52;
+55.03;ACQUISTI PER LA PRODUZIONE DI SERVIZI;6705,98;
+55.03.01;Acq.beni materiali per produz. servizi;6705,98;
+55.07;ACQUISTI DIVERSI;5273,48;
+55.07.01;Acquisto beni strumentali inf.516,46;2662,78;
+55.07.03;Attrezzatura minuta;297,08;
+55.07.17;Cancelleria varia;1917,60;
+55.07.51;Materiale vario di consumo;396,02;
+57;ACQUISTI DI SERVIZI;12710,49;
+57.01;SERVIZI PER LA PRODUZIONE;1220,00;
+57.01.51;Altri servizi per la produzione;1220,00;
+57.03;COSTI ACCESSORI PER VENDITE;1618,09;
+57.03.01;Trasporti su vendite;1618,09;
+57.05;COSTI ACCESSORI PER ACQUISTI;32,94;
+57.05.03;Spese doganali;32,94;
+57.09;COSTI PER UTENZE;4648,37;
+57.09.01;Spese telefoniche ordinarie;1710,99;
+57.09.03;Spese telefoniche radiomobili;533,31;
+57.09.13;Energia elettrica;2404,07;
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;2671,79;
+57.11.01;Spese manut.impianti e macchin.propri;1887,19;
+57.11.03;Spese manutenzione attrezzature proprie;77,00;
+57.11.15;Spese manut.impianti e macchin.di terzi;707,60;
+57.13;MANUTENZIONE FABBRICATI;2519,30;
+57.13.01;Spese manutenzione fabbricati;2519,30;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;2411,24;
+61.01;PRESTAZIONI DI LAVORO AUTONOMO;2411,24;
+61.01.11;Consulenze/prestazioni diverse;1491,33;
+61.01.17;Altri costi per prestazioni di terzi;919,91;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;34558,11;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;15496,22;
+63.01.01;Pubblicit…, inserzioni e affissioni;12876,02;
+63.01.03;Materiale pubblicitario;2620,20;
+63.01.09;Spese per alberghi e ristoranti;0,00;
+63.03;SPESE DI RAPPRESENTANZA (ON.DIV.GEST.);918,01;
+63.03.03;Omaggi;918,01;
+63.05;SPESE AMMINISTRATIVE E GENERALI;18143,88;
+63.05.01;Spese postali;555,20;
+63.05.07;Servizi contabili di terzi;9886,94;
+63.05.11;Altre spese amministrative;2013,55;
+63.05.13;Premi di assicurazioni non obbligatorie;5542,19;
+63.05.23;Valori bollati;146,00;
+65;COSTI PER GODIMENTO BENI DI TERZI;9127,52;
+65.01;GESTIONE IMMOBILI;1580,80;
+65.01.05;Canoni locazione immobili;1580,80;
+65.03;LOCAZ. E CANONI AUTOV. E ALTRI VEICOLI;419,29;
+65.03.05;Canoni/spese access.nolegg.veicoli;419,29;
+65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;6737,03;
+65.05.15;Canoni noleggio attrezzature;6737,03;
+65.07;CANONI E LICENZE SOFTWARE;390,40;
+65.07.03;Licenze d'uso software non capitalizzati;390,40;
+67;COSTI PERSONALE DIPENDENTE;73507,49;
+67.01;COSTI PERSONALE DIPENDENTE;73293,99;
+67.01.01;Retribuzioni lorde;59587,82;
+67.01.03;Contributi INPS;13706,17;
+67.03;COSTI DIVERSI PERSONALE DIPENDENTE;213,50;
+67.03.13;Ricerca, formazione e addestramento;213,50;
+71;ONERI DIVERSI DI GESTIONE;1309,23;
+71.01;ONERI TRIBUTARI;1156,40;
+71.01.07;Imposta di registro e concess. govern.;89,00;
+71.01.13;Tassa raccolta e smaltimento rifiuti;976,00;
+71.01.15;Dazi doganali;91,40;
+71.03;ALTRI COSTI DI ESERCIZIO;152,83;
+71.03.01;Spese, perdite e sopravvenienze passive;0,00;
+71.03.11;Abbonamenti, libri e pubblicazioni;152,83;
+75;ONERI FINANZIARI;2773,65;
+75.01;ONERI FINANZIARI VERSO BANCHE;2773,65;
+75.01.07;Commissioni e spese bancarie;2773,65;
+80;AMMORTAMENTI;1438,37;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;0,02;
+80.01.53;Amm.to altre spese pluriennali;0,02;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;1438,35;
+80.03.13;Amm.ordinario impianti condizionamento;195,34;
+80.03.35;Amm.to ordinario mobili e arredi;98,73;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;1144,28;

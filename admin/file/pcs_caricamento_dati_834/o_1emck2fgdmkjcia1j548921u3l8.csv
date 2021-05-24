@@ -1,0 +1,42 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;229,80;
+27 / 5;   ACQUISTI DIVERSI;229,80;
+27 / 5 / 16;      Materiale di cancelleria;15,12;
+27 / 5 / 30;      Acqu.beni inf. a 516,46 Euro ded.;49,13;
+27 / 5 / 34;      Acquisti vari deducibili;17,10;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;28,40;
+27 / 5 / 45;      Acqu.beni inf.a 516,46 Euro ded.80;120,05;
+29;COSTI PER SERVIZI;45.121,76;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);175,90;
+29 / 5 / 16;      Servizi vari deducibili;175,90;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);267,50;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);267,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);44.678,36;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;316,50;
+29 / 15 / 11;      Servizi vari commerciali;32.424,97;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);294,00;
+29 / 15 / 52;      Spese legali e di consulenza;520,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;1.296,41;
+29 / 15 / 61;      Spese buoni pasto per dipendenti;214,20;
+29 / 15 / 81;      Altre spese deducibili;1.450,02;
+29 / 15 / 92;      Assicur.autovetture (ded. 20%);439,00;
+29 / 15 / 98;      Pedaggi autostradali (ded.20%);159,19;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;134,07;
+29 / 15 / 1010;      Serv.prest.rese da prof.Minimi/For;7.430,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;5.953,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;5.953,00;
+31 / 5 / 3;      Locazione uffici;5.953,00;
+33;COSTI PER IL PERSONALE;28.322,44;
+33 / 5;   SALARI E STIPENDI;17.414,00;
+33 / 5 / 1001;      Stipendi e salari;17.414,00;
+33 / 10;   ONERI SOCIALI;10.908,44;
+33 / 10 / 1001;      Contributi dipendenti;10.908,44;
+38;ONERI DIVERSI DI GESTIONE;752,96;
+38 / 5;   ONERI DIVERSI DI GESTIONE;752,96;
+38 / 5 / 9;      Imposta di registro;57,00;
+38 / 5 / 24;      Valori bollati;34,00;
+38 / 5 / 40;      Tasse di poss.autovett.(ded.20%);239,46;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;422,50;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;218.697,02
+44 / 15;   RICAVI DELLE PRESTAZIONI;;218.697,02
+44 / 15 / 1;      Prestazioni di servizi Italia;;215.708,22
+44 / 15 / 2;      Prestazioni di servizi estero;;2.988,80

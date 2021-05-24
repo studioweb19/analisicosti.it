@@ -1,0 +1,57 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;469,85;
+27 / 5;   ACQUISTI DIVERSI;469,85;
+27 / 5 / 1;      Materie prime;133,06;
+27 / 5 / 16;      Materiale di cancelleria;207,59;
+27 / 5 / 32;      Acquisti vari indeducibili;79,20;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;50,00;
+29;COSTI PER SERVIZI;86.968,20;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);26.754,14;
+29 / 5 / 16;      Servizi vari deducibili;24.579,82;
+29 / 5 / 17;      Servizi vari indeducibili;501,95;
+29 / 5 / 23;      Energia elettrica (ded. 50%);1.170,38;
+29 / 5 / 1001;      Gas;501,99;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);317,00;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);317,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);59.897,06;
+29 / 15 / 7;      Assicurazioni diverse;14.594,25;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;247,40;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;1.629,63;
+29 / 15 / 44;      Spese postali;22,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);601,78;
+29 / 15 / 49;      Commiss.per servizi di incasso;158,60;
+29 / 15 / 53;      Servizi amministrativi e contabili;180,00;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;10.101,37;
+29 / 15 / 55;      Spese per consulenza del lavoro;317,20;
+29 / 15 / 65;      Serv.vari gener.e amministr.ded.;20.920,00;
+29 / 15 / 76;      Spese telef.e altre utenze ded.50%;255,73;
+29 / 15 / 81;      Altre spese deducibili;4.499,16;
+29 / 15 / 82;      Altre spese documentate (ded. 50%);30,00;
+29 / 15 / 89;      Spese condom.immob.uso prom.ded.50;136,13;
+29 / 15 / 94;      Manut./ripar.autov.proprie(ded.20%;440,00;
+29 / 15 / 1008;      Noleggi autovetture ded.20%;5.763,81;
+31;COSTI PER GODIMENTO BENI DI TERZI;20.000,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;20.000,00;
+31 / 5 / 3;      Locazione ambulatorio-GIG SRL;20.000,00;
+33;COSTI PER IL PERSONALE;48.109,18;
+33 / 5;   SALARI E STIPENDI;18.690,04;
+33 / 5 / 4;      Stipendi e contributi;18.690,04;
+33 / 15;   TRATTAMENTO DI FINE RAPPORTO;972,14;
+33 / 15 / 3;      Accant. fondo TFR altri dipendenti;972,14;
+33 / 25;   ALTRI COSTI;28.447,00;
+33 / 25 / 99;      Altri costi del personale;28.447,00;
+35;AMMORTAMENTI E SVALUTAZIONI;4.772,48;
+35 / 10;   AMMORTAMENTO IMMOBILIZZ.MATERIALI;4.772,48;
+35 / 10 / 8;      Amm.macchinari;543,05;
+35 / 10 / 11;      Amm.mobili e macch.ordin.d'ufficio;3.693,67;
+35 / 10 / 14;      Amm.autovetture;400,00;
+35 / 10 / 98;      Amm.altre immobilizz.mat.inded.;135,76;
+38;ONERI DIVERSI DI GESTIONE;881,00;
+38 / 5;   ONERI DIVERSI DI GESTIONE;881,00;
+38 / 5 / 19;      Libri, giornali e riviste;191,00;
+38 / 5 / 24;      Valori bollati;690,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;291.612,34
+44 / 15;   RICAVI DELLE PRESTAZIONI;;291.612,34
+44 / 15 / 1;      Prestazioni di servizi Italia;;291.612,34
+47;ALTRI RICAVI E PROVENTI;;624,00
+47 / 5;   ALTRI RICAVI E PROVENTI;;624,00
+47 / 5 / 9;      Rimborso spese bolli;;624,00

@@ -1,0 +1,52 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;17104,95
+47.01;VENDITE PRODOTTI FINITI E MERCI;0,00;146,60
+47.01.11;Aggio su beni di monopolio;0,00;146,60
+47.07;CORRISPETTIVI;0,00;16958,35
+47.07.01;Corrispettivi;0,00;16958,35
+55;ACQUISTI DI BENI;9133,99;
+55.03;ACQUISTI PER LA PRODUZIONE DI SERVIZI;9080,44;
+55.03.01;Acq.beni materiali per produz. servizi;9080,44;
+55.07;ACQUISTI DIVERSI;53,55;
+55.07.51;Materiale vario di consumo;53,55;
+57;ACQUISTI DI SERVIZI;1442,25;
+57.09;COSTI PER UTENZE;1212,25;
+57.09.01;Spese telefoniche ordinarie;84,28;
+57.09.01.01;Spese telefoniche ordinarie;84,28;
+57.09.13;Energia elettrica;1127,97;
+57.09.13.01;Energia elettrica;1127,97;
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;230,00;
+57.11.01;Spese manut.impianti e macchin.propri;230,00;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;176,47;
+61.01;PRESTAZIONI DI LAVORO AUTONOMO;176,47;
+61.01.03;Consulenze tecniche;176,47;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;57,64;
+63.05;SPESE AMMINISTRATIVE E GENERALI;57,64;
+63.05.17;Servizi di vigilanza;57,64;
+65;COSTI PER GODIMENTO BENI DI TERZI;963,00;
+65.01;GESTIONE IMMOBILI;963,00;
+65.01.05;Canoni locazione immobili;963,00;
+65.01.05.01;Canoni locazione immobili deducibili;963,00;
+67;COSTI PERSONALE DIPENDENTE;2542,87;
+67.01;COSTI PERSONALE DIPENDENTE;2542,87;
+67.01.01;Retribuzioni lorde;1907,24;
+67.01.01.01;Retribuzioni lorde dipendenti ordinari;1907,24;
+67.01.03;Contributi INPS;602,06;
+67.01.03.01;Contributi INPS dipendenti ordinari;602,06;
+67.01.09;Contrib.altri enti previdenz./assistenz.;33,57;
+67.01.09.01;Contrib.altri enti previd/ass.dip.ordin.;33,57;
+71;ONERI DIVERSI DI GESTIONE;391,68;
+71.03;ALTRI COSTI DI ESERCIZIO;391,68;
+71.03.11;Abbonamenti, libri e pubblicazioni;391,68;
+75;ONERI FINANZIARI;2,57;
+75.03;ONERI FINANZIARI DIVERSI;2,57;
+75.03.27;Interessi passivi di mora;2,57;
+75.03.27.01;Interessi passivi di mora pagati;2,57;
+80;AMMORTAMENTI;1063,36;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;959,85;
+80.01.19;Amm.to avviamento;911,80;
+80.01.27;Amm.to spese di manut.su beni di terzi;30,30;
+80.01.53;Amm.to altre spese pluriennali;17,75;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;103,51;
+80.03.29;Amm.to ordin.altri impianti e macchinari;33,02;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;50,50;
+80.03.35;Amm.to ordinario mobili e arredi;19,99;

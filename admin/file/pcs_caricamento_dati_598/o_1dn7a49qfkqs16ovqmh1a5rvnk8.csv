@@ -1,0 +1,35 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;11.902,26;
+27 / 5;   ACQUISTI DIVERSI;11.902,26;
+27 / 5 / 1;      Materie prime;4.652,20;
+27 / 5 / 3;      Materie di consumo;2.196,65;
+27 / 5 / 4;      Merci;4.553,35;
+27 / 5 / 8;      Carbur./lubrific.autovetture ded.;500,06;
+29;COSTI PER SERVIZI;1.842,16;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);968,52;
+29 / 5 / 7;      Lavorazioni esterne;297,00;
+29 / 5 / 11;      Energia elettrica uso industriale;477,65;
+29 / 5 / 13;      Acqua e gas;193,87;
+29 / 15;   COSTI PER SERVIZI (GENERALI);873,64;
+29 / 15 / 7;      Assicurazioni diverse;33,99;
+29 / 15 / 12;      Manut./ripar.autov.proprie ded.;56,76;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;395,15;
+29 / 15 / 30;      Pedaggi autostradali deducibili;35,02;
+29 / 15 / 47;      Spese bancarie;202,72;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;150,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;1.600,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;1.600,00;
+31 / 5 / 15;      Canoni d'affitto d'azienda ded.;1.600,00;
+33;COSTI PER IL PERSONALE;4.783,91;
+33 / 5;   SALARI E STIPENDI;3.754,07;
+33 / 5 / 3;      Salari operai;3.754,07;
+33 / 10;   ONERI SOCIALI;1.029,84;
+33 / 10 / 10;      Contributi assistenziali;1.029,84;
+38;ONERI DIVERSI DI GESTIONE;0,19;
+38 / 5;   ONERI DIVERSI DI GESTIONE;0,19;
+38 / 5 / 26;      Arrotondamenti passivi;0,19;
+39;ONERI FINANZIARI;116,62;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;116,62;
+39 / 5 / 6;      Int.passivi su mutui;116,62;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;16.938,00
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;16.938,00
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;16.938,00

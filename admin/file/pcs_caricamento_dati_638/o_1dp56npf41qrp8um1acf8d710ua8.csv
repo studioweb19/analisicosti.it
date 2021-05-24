@@ -1,0 +1,33 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;1.999,09;
+27 / 5;   ACQUISTI DIVERSI;1.999,09;
+27 / 5 / 4;      Merci;555,00;
+27 / 5 / 32;      Acquisti vari indeducibili;12,20;
+27 / 5 / 35;      Materiali di consumo;1.431,89;
+29;COSTI PER SERVIZI;6.240,06;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);600,60;
+29 / 5 / 11;      Energia elettrica uso industriale;563,10;
+29 / 5 / 22;      Mater.e merci utilizz.produz.serv.;37,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);5.639,46;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;70,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);173,92;
+29 / 15 / 47;      Spese bancarie;30,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;954,57;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;252,00;
+29 / 15 / 55;      Spese per consulenza del lavoro;762,70;
+29 / 15 / 64;      Servizi e spese di pulizia;252,00;
+29 / 15 / 69;      Altre Spese condominiali ded.;62,00;
+29 / 15 / 81;      Altre spese deducibili;96,00;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;515,00;
+29 / 15 / 5001;      Servizi per somministraz. lavoro;2.471,27;
+31;COSTI PER GODIMENTO BENI DI TERZI;3.352,26;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;3.352,26;
+31 / 5 / 1;      Locazione stabilimenti;3.352,26;
+33;COSTI PER IL PERSONALE;26.065,75;
+33 / 5;   SALARI E STIPENDI;20.571,34;
+33 / 5 / 3;      Salari operai;18.647,02;
+33 / 5 / 1011;      Lavoro in somministrazione;1.924,32;
+33 / 10;   ONERI SOCIALI;5.494,41;
+33 / 10 / 1001;      Contributi dipendenti;5.494,41;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;37.402,00
+44 / 15;   RICAVI DELLE PRESTAZIONI;;37.402,00
+44 / 15 / 1;      Prestazioni di servizi Italia;;37.402,00

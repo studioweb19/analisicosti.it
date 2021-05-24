@@ -1,0 +1,15 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;35,44;
+27 / 5;   ACQUISTI DIVERSI;35,44;
+27 / 5 / 34;      Acquisti vari deducibili;35,44;
+29;COSTI PER SERVIZI;9.702,07;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);1.051,25;
+29 / 5 / 16;      Servizi vari deducibili;1.051,25;
+29 / 15;   COSTI PER SERVIZI (GENERALI);8.650,82;
+29 / 15 / 11;      Servizi vari commerciali;7.939,30;
+29 / 15 / 53;      Servizi amministrativi e contabili;711,52;
+31;COSTI PER GODIMENTO BENI DI TERZI;600,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;600,00;
+31 / 5 / 3;      Locazione uffici;600,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;28.200,83
+44 / 15;   RICAVI DELLE PRESTAZIONI;;28.200,83
+44 / 15 / 1;      Prestazioni di servizi Italia;;28.200,83

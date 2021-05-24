@@ -1,0 +1,48 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;54.351,83;
+27 / 5;   ACQUISTI DIVERSI;54.351,83;
+27 / 5 / 2;      Materie sussidiarie,imballaggi,ecc;2.516,35;
+27 / 5 / 4;      Merci;50.972,90;
+27 / 5 / 16;      Materiale di cancelleria;98,16;
+27 / 5 / 34;      Acquisti vari deducibili;246,74;
+27 / 5 / 35;      Materiali di consumo;113,90;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;403,78;
+29;COSTI PER SERVIZI;15.523,08;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);1.166,75;
+29 / 5 / 19;      Energia elettrica uso civile;1.166,75;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);7.267,54;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;6.845,65;
+29 / 10 / 5001;      Servizi Lyoness/myWorld Italia srl;421,89;
+29 / 15;   COSTI PER SERVIZI (GENERALI);7.088,79;
+29 / 15 / 7;      Assicurazioni diverse;321,00;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;106,50;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;62,00;
+29 / 15 / 44;      Spese postali;9,80;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);488,44;
+29 / 15 / 49;      Commiss.per servizi di incasso;536,08;
+29 / 15 / 53;      Servizi amministrativi e contabili;2.411,14;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;520,00;
+29 / 15 / 69;      Altre Spese condominiali ded.;150,00;
+29 / 15 / 81;      Altre spese deducibili;1.271,75;
+29 / 15 / 92;      Assicur.autovetture (ded. 20%);618,00;
+29 / 15 / 94;      Manut./ripar.autov.proprie(ded.20%;37,11;
+29 / 15 / 98;      Pedaggi autostradali (ded.20%);116,76;
+29 / 15 / 101;      Servizi e spese di vigilanza;264,00;
+29 / 15 / 105;      Carbur./lubrific.autovett.(ded.20%;49,77;
+29 / 15 / 1001;      Parcheggi (deducibili 20%);42,44;
+29 / 15 / 1010;      Servizi e prest.rese da prof.Minim;84,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;9.369,79;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;9.369,79;
+31 / 5 / 20;      Corrispettivi licenze software;19,79;
+31 / 5 / 1001;      Locazione fondo commerciale;9.350,00;
+33;COSTI PER IL PERSONALE;3.109,01;
+33 / 5;   SALARI E STIPENDI;2.156,15;
+33 / 5 / 1001;      Stipendi e salari;2.156,15;
+33 / 10;   ONERI SOCIALI;952,86;
+33 / 10 / 1001;      Contributi dipendenti;952,86;
+38;ONERI DIVERSI DI GESTIONE;606,70;
+38 / 5;   ONERI DIVERSI DI GESTIONE;606,70;
+38 / 5 / 11;      Tassa raccolta rifiuti;403,00;
+38 / 5 / 35;      Altri oneri di gestione ded.;203,70;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;99.680,97
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;99.680,97
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;99.680,97

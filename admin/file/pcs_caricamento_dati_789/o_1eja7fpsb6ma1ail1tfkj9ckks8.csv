@@ -1,0 +1,92 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;32.830,95;
+27 / 5;   ACQUISTI DIVERSI;32.830,95;
+27 / 5 / 7;      Sconti,abb.,premi,resi su acqu.att;7.585,11;
+27 / 5 / 16;      Materiale di cancelleria;2.715,80;
+27 / 5 / 32;      Acquisti vari indeducibili;1.604,77;
+27 / 5 / 34;      Acquisti vari deducibili;20.925,27;
+29;COSTI PER SERVIZI;134.688,91;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);5.578,35;
+29 / 5 / 16;      Servizi vari deducibili;706,16;
+29 / 5 / 17;      Servizi vari indeducibili;458,55;
+29 / 5 / 19;      Energia elettrica uso civile;3.655,40;
+29 / 5 / 1001;      Gas;758,24;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);91.912,62;
+29 / 10 / 1;      Provvigioni su vendite;91.508,53;
+29 / 10 / 13;      Spese di rappresentanza deducibili;132,61;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);271,48;
+29 / 15;   COSTI PER SERVIZI (GENERALI);37.197,94;
+29 / 15 / 4;      Assicur.autovetture (ded. 80%);1.232,00;
+29 / 15 / 7;      Assicurazioni diverse;637,00;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;1.254,62;
+29 / 15 / 15;      Manut./ripar.autov.proprie(ded.80%;3.738,98;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;1.019,25;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;2.295,57;
+29 / 15 / 33;      Pedaggi autostradali (ded.80%);500,00;
+29 / 15 / 44;      Spese postali;109,74;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);7.333,90;
+29 / 15 / 53;      Servizi amministrativi e contabili;5.803,87;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;1.447,27;
+29 / 15 / 55;      Spese per consulenza del lavoro;3.140,28;
+29 / 15 / 57;      Visite ed esami medici per dipend.;149,13;
+29 / 15 / 58;      Spese aggiornamento e formaz.pers.;228,14;
+29 / 15 / 81;      Altre spese deducibili;4.457,27;
+29 / 15 / 90;      Canoni di assistenza;248,88;
+29 / 15 / 108;      Carbur./lubrific.autovett.(ded.80%;3.462,02;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;117,12;
+29 / 15 / 1006;      Parcheggi ded.80%;22,90;
+31;COSTI PER GODIMENTO BENI DI TERZI;4.757,72;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;4.757,72;
+31 / 5 / 3;      Locazione uffici;3.915,92;
+31 / 5 / 24;      Noleggi attrezzature ed altri beni;841,80;
+33;COSTI PER IL PERSONALE;76.342,04;
+33 / 5;   SALARI E STIPENDI;43.552,37;
+33 / 5 / 4;      Stipendi impiegati;43.552,37;
+33 / 10;   ONERI SOCIALI;28.801,20;
+33 / 10 / 5;      Oneri sociali per impiegati;429,90;
+33 / 10 / 1001;      Contributi dipendenti;28.371,30;
+33 / 15;   TRATTAMENTO DI FINE RAPPORTO;3.988,47;
+33 / 15 / 3;      Accant. fondo TFR altri dipendenti;3.988,47;
+35;AMMORTAMENTI E SVALUTAZIONI;1.828,28;
+35 / 5;   AMMORTAMENTO IMMOBILIZZ.IMMATERIALI;400,00;
+35 / 5 / 12;      Amm.software in proprieta';400,00;
+35 / 10;   AMMORTAMENTO IMMOBILIZZ.MATERIALI;1.428,28;
+35 / 10 / 8;      Amm.macchinari;538,28;
+35 / 10 / 12;      Amm.macchine ufficio elettroniche;846,08;
+35 / 10 / 98;      Amm.altre immobilizz.mat.inded.;43,92;
+38;ONERI DIVERSI DI GESTIONE;12.914,31;
+38 / 5;   ONERI DIVERSI DI GESTIONE;12.914,31;
+38 / 5 / 5;      Tasse di poss.autovett.(ded.80%);309,46;
+38 / 5 / 18;      Spese di cancelleria;229,46;
+38 / 5 / 19;      Libri, giornali e riviste;100,91;
+38 / 5 / 20;      Omaggi di beni infer.ad Euro 50,00;702,85;
+38 / 5 / 24;      Valori bollati;2.027,00;
+38 / 5 / 28;      Diritti camerali (CCIAA);138,00;
+38 / 5 / 5001;      Cassa previdenza agenti;5,87;
+38 / 5 / 5003;      Diritto rivalsa-parte Interessi;119,22;
+38 / 5 / 5004;      Diritto di rivalsa-parte capitale;1.315,80;
+38 / 5 / 5005;      Polizza cauzione agenti;98,48;
+38 / 5 / 5014;      Sindacato Nazionale Agenti Assicur;390,00;
+38 / 5 / 5020;      Polizza collettiva vita B/0004056;102,62;
+38 / 5 / 5024;      Cassa Previdenza Agenti Metlife;78,16;
+38 / 5 / 5026;      Contributo fondo pens.Marcella;155,00;
+38 / 5 / 5031;      Contributi CPA agenti Stoppato;776,55;
+38 / 5 / 5032;      Contributi CPA agenti Ciullini;776,55;
+38 / 5 / 5033;      Contributi FPA ordinario Stoppato;1.455,00;
+38 / 5 / 5034;      Cassa Previdenza Gruppo ITAS;2.022,22;
+38 / 5 / 5036;      Polizza RC professionale;220,00;
+38 / 5 / 5037;      Contributo int.fondo pens.Ciullini;155,00;
+38 / 5 / 5038;      Contr.ord.2019 fond.pensioni Ciul.;1.455,00;
+38 / 5 / 5039;      Altri oneri di gestione ded.;281,16;
+39;ONERI FINANZIARI;1,42;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;1,42;
+39 / 5 / 13;      Interessi passivi di mora;1,42;
+;      SUPER AMMORTAMENTI (Simulazione);;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;290.444,36
+44 / 15;   RICAVI DELLE PRESTAZIONI;;290.444,36
+44 / 15 / 3;      Provvigioni attive;;290.444,36
+47;ALTRI RICAVI E PROVENTI;;16.805,43
+47 / 5;   ALTRI RICAVI E PROVENTI;;16.805,43
+47 / 5 / 28;      Ricavi diversi;;164,50
+47 / 5 / 29;      Abbuoni attivi;;200,08
+47 / 5 / 5001;      Contributi attivi;;16.261,85
+47 / 5 / 5002;      Autentiche notarili;;179,00

@@ -1,0 +1,58 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;2.535,59;
+27 / 5;   ACQUISTI DIVERSI;2.535,59;
+27 / 5 / 4;      Merci;63,48;
+27 / 5 / 7;      Sconti,abb.,premi,resi su acqu.att;1.773,67;
+27 / 5 / 16;      Materiale di cancelleria;617,30;
+27 / 5 / 18;      Materiale di pulizia;37,14;
+27 / 5 / 34;      Acquisti vari deducibili;44,00;
+29;COSTI PER SERVIZI;43.366,03;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);33.065,81;
+29 / 10 / 1;      Provvigioni su vendite;33.035,31;
+29 / 10 / 13;      Spese di rappresentanza deducibili;30,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);10.300,22;
+29 / 15 / 4;      Assicur.autovetture (ded. 80%);227,00;
+29 / 15 / 7;      Assicurazioni diverse;602,36;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;449,90;
+29 / 15 / 15;      Manut./ripar.autov.proprie(ded.80%;1.328,15;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;443,04;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;427,00;
+29 / 15 / 33;      Pedaggi autostradali (ded.80%);100,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);64,90;
+29 / 15 / 53;      Servizi amministrativi e contabili;1.472,33;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;122,00;
+29 / 15 / 55;      Spese per consulenza del lavoro;952,23;
+29 / 15 / 74;      Manut. sistemi telefonici (80%);60,00;
+29 / 15 / 81;      Altre spese deducibili;2.416,89;
+29 / 15 / 83;      Altre spese documentate (ded. 80%);231,45;
+29 / 15 / 108;      Carbur./lubrific.autovett.(ded.80%;1.036,97;
+29 / 15 / 1004;      Spese corsi (ded. 100%);366,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;1.963,84;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;1.963,84;
+31 / 5 / 3;      Locazione uffici;981,92;
+31 / 5 / 1001;      Locazione fondo commerciale;981,92;
+33;COSTI PER IL PERSONALE;42.050,31;
+33 / 5;   SALARI E STIPENDI;25.082,00;
+33 / 5 / 4;      Stipendi impiegati;25.082,00;
+33 / 10;   ONERI SOCIALI;16.968,31;
+33 / 10 / 5;      Oneri sociali per impiegati;536,47;
+33 / 10 / 1001;      Contributi dipendenti;16.431,84;
+38;ONERI DIVERSI DI GESTIONE;2.894,77;
+38 / 5;   ONERI DIVERSI DI GESTIONE;2.894,77;
+38 / 5 / 5;      Tasse di poss.autovett.(ded.80%);425,47;
+38 / 5 / 9;      Imposta di registro;86,50;
+38 / 5 / 24;      Valori bollati;1.014,00;
+38 / 5 / 5003;      Diritto Rivalsa-parte Interessi;29,84;
+38 / 5 / 5004;      Diritto Rivalsa-parte capitale;438,60;
+38 / 5 / 5005;      CAUZIONE AGENTI;87,86;
+38 / 5 / 5006;      ISCRIZIONE SINDACATO STOPPATO;390,00;
+38 / 5 / 5008;      P.zza collet.190180 ITAS;422,50;
+47;ALTRI RICAVI E PROVENTI;6,09;
+47 / 5;   ALTRI RICAVI E PROVENTI;6,09;
+47 / 5 / 29;      Abbuoni attivi;6,09;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;120.917,82
+44 / 15;   RICAVI DELLE PRESTAZIONI;;120.917,82
+44 / 15 / 3;      Provvigioni attive;;120.917,82
+47;ALTRI RICAVI E PROVENTI;;10.602,52
+47 / 5;   ALTRI RICAVI E PROVENTI;;10.602,52
+47 / 5 / 28;      Ricavi diversi;;54,00
+47 / 5 / 5001;      Contributi attivi;;10.548,52

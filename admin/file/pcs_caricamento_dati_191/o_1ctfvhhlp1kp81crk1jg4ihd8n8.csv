@@ -1,0 +1,84 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;0,00;93997,50
+47.07;CORRISPETTIVI;0,00;69581,50
+47.07.01;Corrispettivi;0,00;69581,50
+47.07.01;LEZIONI DI GRUPPO;0,00;43011,50
+47.07.01;LEZIONI INDIVIDUALI;0,00;26570,00
+47.11;RICAVI DA PRESTAZIONI;0,00;24416,00
+47.11.03;Prestazioni di servizi;0,00;24416,00
+53;ALTRI RICAVI E PROVENTI;0,00;194,75
+53.01;PROVENTI DIVERSI;0,00;194,75
+53.01.51;Altri ricavi e proventi;0,00;194,75
+53.01.51.01;Altri ricavi e proventi imponibili;0,00;194,75
+55;ACQUISTI DI BENI;3462,21;
+55.03;ACQUISTI PER LA PRODUZIONE DI SERVIZI;1180,38;
+55.03.01;Acq.beni materiali per produz. servizi;1180,38;
+55.07;ACQUISTI DIVERSI;2281,83;
+55.07.01;Acquisto beni strumentali inf.516,46;264,97;
+55.07.01.01;Acquisto beni strument.inf.516,46 ded.;200,99;
+55.07.01.03;Acq.beni strum.inf.516,46 tel.fissa/mob.;63,98;
+55.07.03;Attrezzatura minuta;76,68;
+55.07.17;Cancelleria varia;1807,71;
+55.07.51;Materiale vario di consumo;132,47;
+57;ACQUISTI DI SERVIZI;4004,30;
+57.01;SERVIZI PER LA PRODUZIONE;305,00;
+57.01.51;Altri servizi per la produzione;305,00;
+57.01.51.03;Acq.servizi diversi (attiv.di servizi);305,00;
+57.03;COSTI ACCESSORI PER VENDITE;871,19;
+57.03.01;Trasporti su vendite;871,19;
+57.09;COSTI PER UTENZE;2637,29;
+57.09.01;Spese telefoniche ordinarie;978,42;
+57.09.01.01;Spese telefoniche ordinarie;978,42;
+57.09.03;Spese telefoniche radiomobili;469,19;
+57.09.13;Energia elettrica;1189,68;
+57.09.13.01;Energia elettrica;1189,68;
+57.11;MANUTENZIONI MACCHINARI E ATTREZZATURE;54,18;
+57.11.03;Spese manutenzione attrezzature proprie;43,00;
+57.11.05;Spese manutenzione telefoni propri;11,18;
+57.11.05.01;Spese manut.telefoni radiomobili propri;11,18;
+57.13;MANUTENZIONE FABBRICATI;136,64;
+57.13.01;Spese manutenzione fabbricati;136,64;
+57.13.01.13;Spese manut.su immobili di terzi;136,64;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;250,00;
+61.01;PRESTAZIONI DI LAVORO AUTONOMO;250,00;
+61.01.11;Consulenze/prestazioni diverse;250,00;
+61.01.11.01;Consulenze afferenti diverse;250,00;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;7179,78;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;3885,70;
+63.01.01;Pubblicit…, inserzioni e affissioni;854,00;
+63.01.01.01;PUBBLICITA CARTELLONI AUTOBUS E SEAT PG;854,00;
+63.01.03;Materiale pubblicitario;3031,70;
+63.01.03.01;TIPOGRAFIA/PROSPETTI PUBBL., VOLANTINI;3031,70;
+63.01.07;IVA non detratta su prestaz.alberghiere;0,00;
+63.01.09;Spese per alberghi e ristoranti;0,00;
+63.01.09.05;Sp.alberghi,rist(rappr.indeducibili);0,00;
+63.03;SPESE DI RAPPRESENTANZA (ON.DIV.GEST.);337,24;
+63.03.01;Spese di rappresentanza (on.gest.);337,24;
+63.03.01.01;Sp.di rappr.ded.con lim.ricavi(on.gest.);337,24;
+63.05;SPESE AMMINISTRATIVE E GENERALI;2956,84;
+63.05.01;Spese postali;128,60;
+63.05.07;Servizi contabili di terzi;2493,44;
+63.05.11;Altre spese amministrative;292,80;
+63.05.23;Valori bollati;42,00;
+65;COSTI PER GODIMENTO BENI DI TERZI;1783,42;
+65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;1783,42;
+65.05.15;Canoni noleggio attrezzature;1783,42;
+67;COSTI PERSONALE DIPENDENTE;39880,08;
+67.01;COSTI PERSONALE DIPENDENTE;39880,08;
+67.01.01;Retribuzioni lorde;33376,31;
+67.01.01.01;Retribuzioni lorde dipendenti ordinari;33376,31;
+67.01.03;Contributi INPS;6503,77;
+67.01.03.01;Contributi INPS dipendenti ordinari;6503,77;
+71;ONERI DIVERSI DI GESTIONE;165,49;
+71.03;ALTRI COSTI DI ESERCIZIO;165,49;
+71.03.01;Spese, perdite e sopravvenienze passive;0,00;
+71.03.01.05;Spese, perdite e sopravv.passive inded.;0,00;
+71.03.11;Abbonamenti, libri e pubblicazioni;165,49;
+75;ONERI FINANZIARI;473,96;
+75.01;ONERI FINANZIARI VERSO BANCHE;473,96;
+75.01.07;Commissioni e spese bancarie;473,96;
+80;AMMORTAMENTI;892,79;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;892,79;
+80.03.13;Amm.ordinario impianti condizionamento;103,28;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;101,23;
+80.03.35;Amm.to ordinario mobili e arredi;57,36;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;630,92;

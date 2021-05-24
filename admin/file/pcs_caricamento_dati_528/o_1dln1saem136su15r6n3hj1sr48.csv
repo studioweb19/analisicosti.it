@@ -1,0 +1,30 @@
+29;COSTI PER SERVIZI;15.143,86;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);1.769,04;
+29 / 5 / 16;      Servizi vari deducibili;1.769,04;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);206,00;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);206,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);13.168,82;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;208,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);380,44;
+29 / 15 / 49;      Commiss.per servizi di incasso;185,26;
+29 / 15 / 53;      Servizi amministrativi e contabili;21,96;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;1.023,54;
+29 / 15 / 65;      Serv.vari gener.e amministr.ded.;5.000,00;
+29 / 15 / 81;      Altre spese deducibili;4.367,45;
+29 / 15 / 96;      Manut./ripar.autov.terzi (ded.20%);155,32;
+29 / 15 / 1008;      Noleggi autovetture ded.20%;1.826,85;
+31;COSTI PER GODIMENTO BENI DI TERZI;12.500,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;12.500,00;
+31 / 5 / 3;      Locazione ambulatorio-GIG SRL;12.500,00;
+33;COSTI PER IL PERSONALE;9.867,21;
+33 / 5;   SALARI E STIPENDI;9.867,21;
+33 / 5 / 4;      Stipendi e contributi;9.867,21;
+38;ONERI DIVERSI DI GESTIONE;214,00;
+38 / 5;   ONERI DIVERSI DI GESTIONE;214,00;
+38 / 5 / 24;      Valori bollati;214,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;244.040,10
+44 / 15;   RICAVI DELLE PRESTAZIONI;;244.040,10
+44 / 15 / 1;      Prestazioni di servizi Italia;;244.040,10
+47;ALTRI RICAVI E PROVENTI;;462,00
+47 / 5;   ALTRI RICAVI E PROVENTI;;462,00
+47 / 5 / 9;      Rimborso spese bolli;;462,00

@@ -1,0 +1,112 @@
+Conto;COLONNA2;Descrizione;COLONNA4;% reddito deducibile;Saldo finale;COLONNA11;COLONNA12;Saldo iniziale;COLONNA14;Importo Dare;Importo Avere
+47;;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;;;-509384,62;A;;;;;509384,62
+    47.01;;VENDITE PRODOTTI FINITI E MERCI;;;-16398,50;A;;;;;16398,50
+        47.01.03;;Vendita merci;;100,00;-16398,50;A;;;;;16398,50
+    47.07;;CORRISPETTIVI;;;-492986,12;A;;;;;492986,12
+        47.07.01;;Corrispettivi;;100,00;-492986,12;A;;;;;492986,12
+53;;ALTRI RICAVI E PROVENTI;;;-2213,19;A;;;;;2213,19
+    53.01;;PROVENTI DIVERSI;;;-83,19;A;;;;;83,19
+        53.01.19;;Sopravvenienze attive da gestione ordin.;;;-66,88;A;;;;;66,88
+            53.01.19.01;;Sopravv.attive da gestione ordin.impon.;;100,00;-66,88;A;;;;;66,88
+        53.01.29;;Arrotondamenti attivi diversi;;100,00;-16,31;A;;;;;16,31
+    53.03;;PLUSVAL.DA ALIENAZIONE CESPITI;;;-400,00;A;;;;;400,00
+        53.03.05;;Plusv.civilistica da alienazione cespiti;;100,00;-400,00;A;;;;;400,00
+    53.09;;COMPONENTI POSITIVI DA EVENTI STRAORD.;;;-1730,00;A;;;;;1730,00
+        53.09.05;;Risarcim.danni per eventi accidentali;;100,00;-1730,00;A;;;;;1730,00
+55;;ACQUISTI DI BENI;;;120553,12;D;;;;129406,18;8853,06
+    55.01;;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;;;116455,56;D;;;;124869,70;8414,14
+        55.01.05;;Acquisti materiali di consumo;;100,00;1995,45;D;;;;2009,85;14,40
+        55.01.07;;Acquisti merci per la rivendita;;100,00;114403,71;D;;;;122803,45;8399,74
+        55.01.17;;Acquisti materiali vari;;100,00;35,90;D;;;;35,90;
+        55.01.19;;Oneri accessori su acquisti;;100,00;20,50;D;;;;20,50;
+    55.05;;VARIAZIONI ATTIVE SU ACQUISTI;;;-179,12;A;;;;;179,12
+        55.05.01;;Sconti su acquisti;;;-133,91;A;;;;;133,91
+            55.05.01.01;;Sconti su acquisti;;100,00;-133,91;A;;;;;133,91
+        55.05.07;;Resi su acquisti;;;-45,21;A;;;;;45,21
+            55.05.07.01;;Resi su acquisti;;100,00;-45,21;A;;;;;45,21
+    55.07;;ACQUISTI DIVERSI;;;4276,68;D;;;;4536,48;259,80
+        55.07.03;;Attrezzatura minuta;;100,00;1234,28;D;;;;1234,28;
+        55.07.13;;Materiali manutenzioni diverse;;100,00;24,29;D;;;;24,29;
+        55.07.51;;Materiale vario di consumo;;100,00;3018,11;D;;;;3277,91;259,80
+57;;ACQUISTI DI SERVIZI;;;16476,34;D;;;;20107,48;3631,14
+    57.05;;COSTI ACCESSORI PER ACQUISTI;;;81,97;D;;;;81,97;
+        57.05.01;;Trasporti su acquisti;;;81,97;D;;;;81,97;
+            57.05.01.01;;Trasporti su acquisti;;100,00;81,97;D;;;;81,97;
+    57.09;;COSTI PER UTENZE;;;15930,60;D;;;;19561,74;3631,14
+        57.09.03;;Spese telefoniche radiomobili;;80,00;695,67;D;;;;695,67;
+        57.09.13;;Energia elettrica;;;11145,73;D;;;;13904,41;2758,68
+            57.09.13.01;;Energia elettrica;;100,00;11145,73;D;;;;13904,41;2758,68
+        57.09.17;;Acqua potabile;;100,00;3523,52;D;;;;4395,98;872,46
+        57.09.19;;Gas;;100,00;565,68;D;;;;565,68;
+    57.11;;MANUTENZIONI MACCHINARI E ATTREZZATURE;;;463,77;D;;;;463,77;
+        57.11.03;;Spese manutenzione attrezzature proprie;;100,00;463,77;D;;;;463,77;
+61;;PRESTAZIONI DI LAVORO NON DIPENDENTE;;;128166,62;D;;;;128166,62;
+    61.01;;PRESTAZIONI DI LAVORO AUTONOMO;;;313,74;D;;;;313,74;
+        61.01.19;;Contributi cassa previdenza lav.autonomo;;;313,74;D;;;;313,74;
+            61.01.19.05;;Contr.cassa prev.cons.ammin.fisc.(ordin);;100,00;313,74;D;;;;313,74;
+    61.05;;COMPENSI ORGANI SOCIALI;;;127852,88;D;;;;127852,88;
+        61.05.01;;Compensi amministratori;;;110218,00;D;;;;110218,00;
+            61.05.01.05;;Compensi amministr.soci co.co.co  SC;;100,00;110218,00;D;;;;110218,00;
+        61.05.11;;Contributi previdenziali amministratori;;;17634,88;D;;;;17634,88;
+            61.05.11.03;;Contrib. previd. ammin.co.co.co.soci SC;;100,00;17634,88;D;;;;17634,88;
+63;;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;;;9696,06;D;;;;9771,76;75,70
+    63.01;;SPESE COMMERCIALI E DI VIAGGIO;;;59,43;D;;;;135,13;75,70
+        63.01.13;;Spese di viaggio;;100,00;59,43;D;;;;135,13;75,70
+    63.05;;SPESE AMMINISTRATIVE E GENERALI;;;9636,63;D;;;;9636,63;
+        63.05.01;;Spese postali;;100,00;2,20;D;;;;2,20;
+        63.05.07;;Servizi contabili di terzi;;100,00;7843,80;D;;;;7843,80;
+        63.05.13;;Premi di assicurazioni non obbligatorie;;;763,66;D;;;;763,66;
+            63.05.13.01;;Premi di assicuraz.non obblig.deducibili;;100,00;763,66;D;;;;763,66;
+        63.05.23;;Valori bollati;;100,00;65,00;D;;;;65,00;
+        63.05.51;;Spese generali varie;;100,00;961,97;D;;;;961,97;
+65;;COSTI PER GODIMENTO BENI DI TERZI;;;67240,25;D;;;;67240,25;
+    65.01;;GESTIONE IMMOBILI;;;67240,25;D;;;;67240,25;
+        65.01.05;;Canoni locazione immobili;;;67240,25;D;;;;67240,25;
+            65.01.05.01;;Canoni locazione immobili deducibili;;100,00;67240,25;D;;;;67240,25;
+67;;COSTI PERSONALE DIPENDENTE;;;110004,01;D;;;;114688,87;4684,86
+    67.01;;COSTI PERSONALE DIPENDENTE;;;109758,11;D;;;;114442,97;4684,86
+        67.01.01;;Retribuzioni lorde;;;91429,81;D;;;;95622,49;4192,68
+            67.01.01.01;;Retribuzioni lorde dipendenti ordinari;;100,00;53774,90;D;;;;55165,64;1390,74
+            67.01.01.05;;Retribuzioni lorde apprendisti;;100,00;37654,91;D;;;;40456,85;2801,94
+        67.01.03;;Contributi INPS;;;16919,67;D;;;;17411,85;492,18
+            67.01.03.01;;Contributi INPS dipendenti ordinari;;100,00;15110,33;D;;;;15506,95;396,62
+            67.01.03.05;;Contributi INPS apprendisti;;100,00;1809,34;D;;;;1904,90;95,56
+        67.01.07;;Quote TFR dipendenti;;;332,29;D;;;;332,29;
+            67.01.07.01;;Quote TFR dipend.ordinari (in azienda);;100,00;332,29;D;;;;332,29;
+        67.01.09;;Contrib.altri enti previdenz./assistenz.;;;1076,34;D;;;;1076,34;
+            67.01.09.01;;Contrib.altri enti previd/ass.dip.ordin.;;100,00;1076,34;D;;;;1076,34;
+    67.03;;COSTI DIVERSI PERSONALE DIPENDENTE;;;245,90;D;;;;245,90;
+        67.03.13;;Ricerca, formazione e addestramento;;100,00;245,90;D;;;;245,90;
+71;;ONERI DIVERSI DI GESTIONE;;;8012,44;D;;;;8012,44;
+    71.01;;ONERI TRIBUTARI;;;5202,68;D;;;;5202,68;
+        71.01.05;;Diritti camerali;;100,00;62,70;D;;;;62,70;
+        71.01.07;;Imposta di registro e concess. govern.;;100,00;3239,87;D;;;;3239,87;
+        71.01.09;;Tasse concess.govern.telefonia mobile;;80,00;34,16;D;;;;34,16;
+        71.01.13;;Tassa raccolta e smaltimento rifiuti;;100,00;1242,00;D;;;;1242,00;
+        71.01.51;;Altre imposte e tasse indirette;;;623,95;D;;;;623,95;
+            71.01.51.01;;Altre imposte e tasse indirette ded.;;100,00;623,95;D;;;;623,95;
+    71.03;;ALTRI COSTI DI ESERCIZIO;;;2809,76;D;;;;2809,76;
+        71.03.01;;Spese, perdite e sopravvenienze passive;;;2514,85;D;;;;2514,85;
+            71.03.01.05;;Spese, perdite e sopravv.passive inded.;;;2514,85;D;;;;2514,85;
+        71.03.09;;Cancelleria varia;;100,00;284,09;D;;;;284,09;
+        71.03.17;;Arrotondamenti passivi diversi;;100,00;10,82;D;;;;10,82;
+75;;ONERI FINANZIARI;;;1332,02;D;;;;1646,53;314,51
+    75.01;;ONERI FINANZIARI VERSO BANCHE;;;795,90;D;;;;966,92;171,02
+        75.01.01;;Interessi passivi bancari;;100,00;0,28;D;;;;0,28;
+        75.01.07;;Commissioni e spese bancarie;;100,00;795,62;D;;;;966,64;171,02
+    75.03;;ONERI FINANZIARI DIVERSI;;;536,12;D;;;;679,61;143,49
+        75.03.05;;Interessi passivi su mutui;;100,00;534,75;D;;;;678,24;143,49
+        75.03.27;;Interessi passivi di mora;;;1,37;D;;;;1,37;
+            75.03.27.05;;Inter.pass.di mora pagati (no ROL);;100,00;1,37;D;;;;1,37;
+80;;AMMORTAMENTI;;;26677,71;D;;;;;
+    80.05;;AMM.TI CIVILISTICI IMMOBILIZZ. MATERIALI;;;24962,45;D;;;;;
+        80.05.11;;Amm.to civilistico impianti elettrici;Simulazione calcolo ammortamento;100,00;792,80;D;;;;;
+        80.05.15;;Amm.to civilistico impianti specifici;Simulazione calcolo ammortamento;100,00;257,13;D;;;;;
+        80.05.21;;Amm.to civil.altri impianti e macchinari;Simulazione calcolo ammortamento;100,00;1858,35;D;;;;;
+        80.05.23;;Amm.to civil.attr.spec.ind.comm.agric.;Simulazione calcolo ammortamento;100,00;4020,46;D;;;;;
+        80.05.25;;Amm.to civilistico attrez.varia e minuta;Simulazione calcolo ammortamento;100,00;572,55;D;;;;;
+        80.05.27;;Amm.to civilistico mobili e arredi;Simulazione calcolo ammortamento;100,00;16740,20;D;;;;;
+        80.05.31;;Amm.to civil.macch.d'ufficio elettron.;Simulazione calcolo ammortamento;100,00;662,24;D;;;;;
+        80.05.37;;Amm.to civilistico telefonia mobile;Simulazione calcolo ammortamento;100,00;58,72;D;;;;;
+    80.07;;AMM.TI CIVILISTICI IMMOBILIZZ. IMMATER.;;;1715,26;D;;;;;
+        80.07.19;;Amm.to civilistico avviamento;Simulazione calcolo ammortamento;100,00;1715,26;D;;;;;

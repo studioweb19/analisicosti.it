@@ -1,0 +1,40 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;170,58;
+27 / 5;   ACQUISTI DIVERSI;170,58;
+27 / 5 / 16;      Materiale di cancelleria;126,58;
+27 / 5 / 34;      Acquisti vari deducibili;44,00;
+29;COSTI PER SERVIZI;13.623,14;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);10.052,16;
+29 / 10 / 1;      Provvigioni su vendite;10.021,66;
+29 / 10 / 13;      Spese di rappresentanza deducibili;30,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);3.570,98;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;274,20;
+29 / 15 / 15;      Manut./ripar.autov.proprie(ded.80%;763,15;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;341,60;
+29 / 15 / 25;      Manut./ripar.su altri beni di terz;427,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);19,95;
+29 / 15 / 74;      Manut. sistemi telefonici (80%);60,00;
+29 / 15 / 81;      Altre spese deducibili;1.181,13;
+29 / 15 / 83;      Altre spese documentate (ded. 80%);231,45;
+29 / 15 / 108;      Carbur./lubrific.autovett.(ded.80%;272,50;
+31;COSTI PER GODIMENTO BENI DI TERZI;981,92;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;981,92;
+31 / 5 / 3;      Locazione uffici;981,92;
+33;COSTI PER IL PERSONALE;10.401,25;
+33 / 5;   SALARI E STIPENDI;6.309,00;
+33 / 5 / 4;      Stipendi impiegati;6.309,00;
+33 / 10;   ONERI SOCIALI;4.092,25;
+33 / 10 / 5;      Oneri sociali per impiegati;536,47;
+33 / 10 / 1001;      Contributi dipendenti;3.555,78;
+38;ONERI DIVERSI DI GESTIONE;249,52;
+38 / 5;   ONERI DIVERSI DI GESTIONE;249,52;
+38 / 5 / 9;      Imposta di registro;86,50;
+38 / 5 / 24;      Valori bollati;4,00;
+38 / 5 / 5003;      Diritto Rivalsa-parte Interessi;12,82;
+38 / 5 / 5004;      Diritto Rivalsa-parte capitale;146,20;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;37.843,93
+44 / 15;   RICAVI DELLE PRESTAZIONI;;37.843,93
+44 / 15 / 3;      Provvigioni attive;;37.843,93
+47;ALTRI RICAVI E PROVENTI;;492,74
+47 / 5;   ALTRI RICAVI E PROVENTI;;492,74
+47 / 5 / 28;      Ricavi diversi;;54,00
+47 / 5 / 5001;      Contributi attivi;;438,74

@@ -1,0 +1,67 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;;119360,03
+47.01;VENDITE PRODOTTI FINITI E MERCI;;979,60
+47.01.11;Aggio su beni di monopolio;;979,60
+47.07;CORRISPETTIVI;;118380,43
+47.07.01;Corrispettivi;;118380,43
+53;ALTRI RICAVI E PROVENTI;;120,00
+53.01;PROVENTI DIVERSI;;120,00
+53.01.51;Altri ricavi e proventi;;120,00
+55;ACQUISTI DI BENI;49156,48;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;183,89;
+55.01.09;Confezioni e imballi;180,81;
+55.01.19;Oneri accessori su acquisti;3,08;
+55.03;ACQUISTI PER LA PRODUZIONE DI SERVIZI;49803,15;
+55.03.01;Acq.beni materiali per produz. servizi;49710,77;
+55.03.03;Acq.materiali di consumo (att.servizi);92,38;
+55.05;VARIAZIONI ATTIVE SU ACQUISTI;-1140,72;
+55.05.01;Sconti su acquisti;-1140,72;
+55.07;ACQUISTI DIVERSI;310,16;
+55.07.03;Attrezzatura minuta;77,51;
+55.07.51;Materiale vario di consumo;232,65;
+57;ACQUISTI DI SERVIZI;3599,38;
+57.01;SERVIZI PER LA PRODUZIONE;166,68;
+57.01.51;Altri servizi per la produzione;166,68;
+57.09;COSTI PER UTENZE;3432,70;
+57.09.01;Spese telefoniche ordinarie;99,81;
+57.09.13;Energia elettrica;2998,01;
+57.09.17;Acqua potabile;334,88;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;581,25;
+61.01;PRESTAZIONI DI LAVORO AUTONOMO;581,25;
+61.01.03;Consulenze tecniche;581,25;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;2413,22;
+63.05;SPESE AMMINISTRATIVE E GENERALI;2413,22;
+63.05.07;Servizi contabili di terzi;373,40;
+63.05.11;Altre spese amministrative;63,59;
+63.05.15;Premi di assicurazioni obbligatorie;1660,93;
+63.05.17;Servizi di vigilanza;288,20;
+63.05.23;Valori bollati;27,10;
+65;COSTI PER GODIMENTO BENI DI TERZI;4860,00;
+65.01;GESTIONE IMMOBILI;4815,00;
+65.01.05;Canoni locazione immobili;4815,00;
+65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;45,00;
+65.05.15;Canoni noleggio attrezzature;45,00;
+67;COSTI PERSONALE DIPENDENTE;21391,28;
+67.01;COSTI PERSONALE DIPENDENTE;21391,28;
+67.01.01;Retribuzioni lorde;15838,08;
+67.01.03;Contributi INPS;4811,54;
+67.01.07;Quote TFR dipendenti;615,78;
+67.01.09;Contrib.altri enti previdenz./assistenz.;125,88;
+71;ONERI DIVERSI DI GESTIONE;1754,66;
+71.01;ONERI TRIBUTARI;1169,03;
+71.01.07;Imposta di registro e concess. govern.;106,03;
+71.01.13;Tassa raccolta e smaltimento rifiuti;1063,00;
+71.03;ALTRI COSTI DI ESERCIZIO;585,63;
+71.03.01;Spese, perdite e sopravvenienze passive;193,95;
+71.03.11;Abbonamenti, libri e pubblicazioni;391,68;
+75;ONERI FINANZIARI;165,20;
+75.01;ONERI FINANZIARI VERSO BANCHE;165,20;
+75.01.07;Commissioni e spese bancarie;165,20;
+80;AMMORTAMENTI;5126,35;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;4695,74;
+80.01.19;Amm.to avviamento;4462,00;
+80.01.27;Amm.to spese di manut.su beni di terzi;147,41;
+80.01.53;Amm.to altre spese pluriennali;86,33;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;430,61;
+80.03.29;Amm.to ordin.altri impianti e macchinari;161,46;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;171,40;
+80.03.35;Amm.to ordinario mobili e arredi;97,75;

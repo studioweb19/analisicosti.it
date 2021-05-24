@@ -1,0 +1,21 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;12.081,01;
+27 / 5;   ACQUISTI DIVERSI;12.081,01;
+27 / 5 / 3;      Materie di consumo;1.072,78;
+27 / 5 / 4;      Merci;56,91;
+27 / 5 / 19;      Materiale antinfortunistico;65,00;
+27 / 5 / 20;      Indumenti di lavoro;37,62;
+27 / 5 / 35;      Materiali di consumo;1.401,37;
+27 / 5 / 1005;      Mat.prime, di consumo e merci;9.447,33;
+29;COSTI PER SERVIZI;4.496,18;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);928,00;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;928,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);3.568,18;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;45,18;
+29 / 15 / 22;      Manut./ripar.autocarri propri;763,84;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;232,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;1.955,96;
+29 / 15 / 94;      Manut./ripar.autov.proprie(ded.20%;510,00;
+29 / 15 / 110;      Carburanti/lubrificanti autocarri;61,20;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;11.374,38
+44 / 15;   RICAVI DELLE PRESTAZIONI;;11.374,38
+44 / 15 / 1;      Prestazioni di servizi Italia;;11.374,38

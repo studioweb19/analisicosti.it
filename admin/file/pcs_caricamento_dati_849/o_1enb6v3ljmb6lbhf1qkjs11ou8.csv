@@ -1,0 +1,28 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;1.385,87;
+27 / 5;   ACQUISTI DIVERSI;1.385,87;
+27 / 5 / 34;      Acquisti vari deducibili;563,80;
+27 / 5 / 35;      Materiali di consumo;822,07;
+29;COSTI PER SERVIZI;4.484,71;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);237,81;
+29 / 5 / 13;      Acqua e gas;237,81;
+29 / 15;   COSTI PER SERVIZI (GENERALI);4.246,90;
+29 / 15 / 47;      Spese bancarie;44,32;
+29 / 15 / 53;      Servizi amministrativi e contabili;582,82;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;927,16;
+29 / 15 / 55;      Spese per consulenza del lavoro;1.746,60;
+29 / 15 / 81;      Altre spese deducibili;6,00;
+29 / 15 / 1003;      Servizi di sorveglianza;180,00;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;760,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;3.992,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;3.992,00;
+31 / 5 / 1;      Locazione stabilimenti;3.800,00;
+31 / 5 / 24;      Noleggi attrezzature ed altri beni;192,00;
+33;COSTI PER IL PERSONALE;48.338,94;
+33 / 5;   SALARI E STIPENDI;32.729,00;
+33 / 5 / 3;      Salari operai;32.729,00;
+33 / 10;   ONERI SOCIALI;15.609,94;
+33 / 10 / 4;      Oneri sociali per operai;464,24;
+33 / 10 / 1001;      Contributi dipendenti;15.145,70;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;65.533,50
+44 / 15;   RICAVI DELLE PRESTAZIONI;;65.533,50
+44 / 15 / 1;      Prestazioni di servizi Italia;;65.533,50

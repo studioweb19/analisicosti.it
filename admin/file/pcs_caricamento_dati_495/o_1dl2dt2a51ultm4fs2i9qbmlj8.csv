@@ -1,0 +1,64 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;;56674,50
+47.07;CORRISPETTIVI;;38639,50
+47.07.01;Corrispettivi;;38639,50
+47.11;RICAVI DA PRESTAZIONI;;18035,00
+47.11.03;Prestazioni di servizi;;18035,00
+53;ALTRI RICAVI E PROVENTI;;226,23
+53.01;PROVENTI DIVERSI;;226,23
+53.01.51;Altri ricavi e proventi;;226,23
+53.01.51.01;Altri ricavi e proventi imponibili;;226,23
+55;ACQUISTI DI BENI;1268,57;
+55.03;ACQUISTI PER LA PRODUZIONE DI SERVIZI;702,80;
+55.03.01;Acq.beni materiali per produz. servizi;702,80;
+55.07;ACQUISTI DIVERSI;565,77;
+55.07.17;Cancelleria varia;428,05;
+55.07.51;Materiale vario di consumo;137,72;
+57;ACQUISTI DI SERVIZI;3078,23;
+57.03;COSTI ACCESSORI PER VENDITE;717,36;
+57.03.01;Trasporti su vendite;717,36;
+57.09;COSTI PER UTENZE;1872,87;
+57.09.01;Spese telefoniche ordinarie;315,31;
+57.09.01.01;Spese telefoniche ordinarie;315,31;
+57.09.03;Spese telefoniche radiomobili;530,12;
+57.09.13;Energia elettrica;831,70;
+57.09.13.01;Energia elettrica;831,70;
+57.09.17;Acqua potabile;195,74;
+57.13;MANUTENZIONE FABBRICATI;488,00;
+57.13.01;Spese manutenzione fabbricati;488,00;
+57.13.01.13;Spese manut.su immobili di terzi;488,00;
+61;PRESTAZIONI DI LAVORO NON DIPENDENTE;1509,87;
+61.01;PRESTAZIONI DI LAVORO AUTONOMO;1509,87;
+61.01.11;Consulenze/prestazioni diverse;1509,87;
+61.01.11.01;Consulenze afferenti diverse;1509,87;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;8160,92;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;5060,90;
+63.01.01;Pubblicit…, inserzioni e affissioni;2074,00;
+63.01.01.01;PUBBLICITA CARTELLONI AUTOBUS E SEAT PG;2074,00;
+63.01.03;Materiale pubblicitario;2986,90;
+63.01.03.01;TIPOGRAFIA/PROSPETTI PUBBL., VOLANTINI;2986,90;
+63.05;SPESE AMMINISTRATIVE E GENERALI;3100,02;
+63.05.07;Servizi contabili di terzi;2188,68;
+63.05.25;Assistenza software;911,34;
+65;COSTI PER GODIMENTO BENI DI TERZI;2423,18;
+65.05;LOCAZIONI E CANONI IMPIANTI E ATTREZZ.;1341,02;
+65.05.15;Canoni noleggio attrezzature;1341,02;
+65.07;CANONI E LICENZE SOFTWARE;1082,16;
+65.07.03;Licenze d'uso software non capitalizzati;1082,16;
+67;COSTI PERSONALE DIPENDENTE;7983,48;
+67.01;COSTI PERSONALE DIPENDENTE;7983,48;
+67.01.01;Retribuzioni lorde;5401,83;
+67.01.01.01;Retribuzioni lorde dipendenti ordinari;5401,83;
+67.01.03;Contributi INPS;2581,65;
+67.01.03.01;Contributi INPS dipendenti ordinari;2581,65;
+75;ONERI FINANZIARI;839,85;
+75.01;ONERI FINANZIARI VERSO BANCHE;839,85;
+75.01.07;Commissioni e spese bancarie;839,85;
+80;AMMORTAMENTI;404,30;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;404,30;
+80.03.13;Amm.ordinario impianti condizionamento;29,64;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;91,55;
+80.03.35;Amm.to ordinario mobili e arredi;24,39;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;254,30;
+80.03.47;Amm.to ordinario telefonia mobile;4,42;
+80.03.47.01;Amm.to ordin.telef.mobile totalm.deduc.;3,54;
+80.03.47.05;Amm.to ordin. telefonia mobile indeduc.;0,88;

@@ -1,0 +1,28 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;4.016,68;
+27 / 5;   ACQUISTI DIVERSI;4.016,68;
+27 / 5 / 13;      Carburanti/lubrificanti autocarri;229,50;
+27 / 5 / 16;      Materiale di cancelleria;17,20;
+27 / 5 / 1005;      Mat.prime, di consumo e merci;3.769,98;
+29;COSTI PER SERVIZI;1.791,21;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);265,00;
+29 / 5 / 7;      Lavorazioni esterne;265,00;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);304,61;
+29 / 10 / 18;      Spese rappresentanza (ded. 75%);304,61;
+29 / 15;   COSTI PER SERVIZI (GENERALI);1.221,60;
+29 / 15 / 6;      Assicurazioni autocarri;304,53;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;55,08;
+29 / 15 / 22;      Manut./ripar.autocarri propri;53,28;
+29 / 15 / 30;      Pedaggi autostradali deducibili;81,96;
+29 / 15 / 53;      Servizi amministrativi e contabili;689,75;
+29 / 15 / 81;      Altre spese deducibili;37,00;
+38;ONERI DIVERSI DI GESTIONE;118,28;
+38 / 5;   ONERI DIVERSI DI GESTIONE;118,28;
+38 / 5 / 1002;      Inail titolare e soci soc.pers.;118,28;
+39;ONERI FINANZIARI;42,00;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;42,00;
+39 / 5 / 15;      Oneri accessori su finanziamenti;42,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;24.345,00
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;1.736,50
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;1.736,50
+44 / 15;   RICAVI DELLE PRESTAZIONI;;22.608,50
+44 / 15 / 1;      Prestazioni di servizi Italia;;22.608,50

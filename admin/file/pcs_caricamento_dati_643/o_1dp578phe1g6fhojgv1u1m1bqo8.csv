@@ -1,0 +1,44 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;3.087,52;
+27 / 5;   ACQUISTI DIVERSI;3.087,52;
+27 / 5 / 3;      Materie di consumo;145,80;
+27 / 5 / 4;      Merci;655,00;
+27 / 5 / 32;      Acquisti vari indeducibili;36,60;
+27 / 5 / 34;      Acquisti vari deducibili;309,78;
+27 / 5 / 35;      Materiali di consumo;1.940,34;
+29;COSTI PER SERVIZI;19.633,95;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);1.766,66;
+29 / 5 / 11;      Energia elettrica uso industriale;1.729,16;
+29 / 5 / 22;      Mater.e merci utilizz.produz.serv.;37,50;
+29 / 15;   COSTI PER SERVIZI (GENERALI);17.867,29;
+29 / 15 / 7;      Assicurazioni diverse;490,50;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;113,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);478,67;
+29 / 15 / 47;      Spese bancarie;30,00;
+29 / 15 / 53;      Servizi amministrativi e contabili;6.202,55;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;252,00;
+29 / 15 / 55;      Spese per consulenza del lavoro;2.277,70;
+29 / 15 / 57;      Visite ed esami medici per dipend.;1.180,00;
+29 / 15 / 64;      Servizi e spese di pulizia;540,00;
+29 / 15 / 69;      Altre Spese condominiali ded.;833,70;
+29 / 15 / 81;      Altre spese deducibili;249,00;
+29 / 15 / 1003;      Servizi di sorveglianza;90,00;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;706,25;
+29 / 15 / 5001;      Servizi per somministraz. lavoro;4.423,92;
+31;COSTI PER GODIMENTO BENI DI TERZI;7.868,97;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;7.868,97;
+31 / 5 / 1;      Locazione stabilimenti;7.868,97;
+33;COSTI PER IL PERSONALE;80.100,87;
+33 / 5;   SALARI E STIPENDI;55.273,11;
+33 / 5 / 3;      Salari operai;44.589,02;
+33 / 5 / 1011;      Lavoro in somministrazione;10.684,09;
+33 / 10;   ONERI SOCIALI;24.827,76;
+33 / 10 / 4;      Oneri sociali per operai;441,35;
+33 / 10 / 1001;      Contributi dipendenti;24.386,41;
+38;ONERI DIVERSI DI GESTIONE;410,00;
+38 / 5;   ONERI DIVERSI DI GESTIONE;410,00;
+38 / 5 / 9;      Imposta di registro;67,00;
+38 / 5 / 11;      Tassa raccolta rifiuti;306,00;
+38 / 5 / 24;      Valori bollati;37,00;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;100.279,00
+44 / 15;   RICAVI DELLE PRESTAZIONI;;100.279,00
+44 / 15 / 1;      Prestazioni di servizi Italia;;100.279,00

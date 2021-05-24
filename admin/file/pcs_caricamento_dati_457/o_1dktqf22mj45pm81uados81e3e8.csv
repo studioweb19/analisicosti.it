@@ -1,0 +1,36 @@
+47;RICAVI DELLE VENDITE E DELLE PRESTAZIONI;;243,2
+47.01;VENDITE PRODOTTI FINITI E MERCI;;243,2
+47.01.03;Vendita merci;;243,2
+55;ACQUISTI DI BENI;629,98;
+55.01;ACQ. PER PRODUZ.DI BENI E PER RIVENDITA;530,98;
+55.01.01;Acquisti materie prime;503,12;
+55.01.17;Acquisti materiali vari;27,86;
+55.07;ACQUISTI DIVERSI;99;
+55.07.03;Attrezzatura minuta;54,48;
+55.07.51;Materiale vario di consumo;44,52;
+63;SPESE AMMIN.,COMM. E DI RAPPRESENTANZA;422,75;
+63.01;SPESE COMMERCIALI E DI VIAGGIO;260;
+63.01.03;Materiale pubblicitario;260;
+63.05;SPESE AMMINISTRATIVE E GENERALI;162,75;
+63.05.11;Altre spese amministrative;162,75;
+65;COSTI PER GODIMENTO BENI DI TERZI;1085,4;
+65.01;GESTIONE IMMOBILI;1085,4;
+65.01.05;Canoni locazione immobili;1085,4;
+67;COSTI PERSONALE DIPENDENTE;1592,32;
+67.01;COSTI PERSONALE DIPENDENTE;1592,32;
+67.01.01;Retribuzioni lorde;1219,59;
+67.01.03;Contributi INPS;331,1;
+67.01.09;Contrib.altri enti previdenz./assistenz.;41,63;
+80;AMMORTAMENTI;1909,73;
+80.01;AMMORTAMENTI IMMOBILIZZAZ.IMMATERIALI;125,26;
+80.01.11;Amm.to costi di pubblicita';99,76;
+80.01.53;Amm.to altre spese pluriennali;25,5;
+80.03;AMMORTAMENTI IMMOBILIZZAZIONI MATERIALI;1784,47;
+80.03.27;Amm.to ordinario macchinari automatici;13,57;
+80.03.29;Amm.to ordin.altri impianti e macchinari;65,84;
+80.03.31;Amm.ord.attrez.spec.industr.comm.agric.;119,64;
+80.03.33;Amm.to ordinario attrezz.varia e minuta;55,65;
+80.03.35;Amm.to ordinario mobili e arredi;1054,55;
+80.03.39;Amm.ord.macchine d'ufficio elettroniche;48,7;
+80.03.47;Amm.to ordinario telefonia mobile;12,45;
+80.03.49;Ammortamento ordinario veicoli;414,07;

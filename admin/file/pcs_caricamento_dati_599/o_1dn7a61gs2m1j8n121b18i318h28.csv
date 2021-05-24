@@ -1,0 +1,47 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;21.276,19;
+27 / 5;   ACQUISTI DIVERSI;21.276,19;
+27 / 5 / 1;      Materie prime;6.635,04;
+27 / 5 / 2;      Materie sussidiarie,imballaggi,ecc;237,00;
+27 / 5 / 3;      Materie di consumo;4.322,25;
+27 / 5 / 4;      Merci;9.016,26;
+27 / 5 / 8;      Carbur./lubrific.autovetture ded.;1.065,64;
+29;COSTI PER SERVIZI;13.281,54;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);4.666,58;
+29 / 5 / 1;      Spese di trasporto su acquisti;22,40;
+29 / 5 / 7;      Lavorazioni esterne;2.997,00;
+29 / 5 / 11;      Energia elettrica uso industriale;1.109,93;
+29 / 5 / 12;      Spese di riscaldamento;343,38;
+29 / 5 / 13;      Acqua e gas;193,87;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);104,00;
+29 / 10 / 13;      Spese di rappresentanza deducibili;104,00;
+29 / 15;   COSTI PER SERVIZI (GENERALI);8.510,96;
+29 / 15 / 7;      Assicurazioni diverse;67,98;
+29 / 15 / 12;      Manut./ripar.autov.proprie ded.;518,81;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;1.080,15;
+29 / 15 / 30;      Pedaggi autostradali deducibili;65,66;
+29 / 15 / 45;      Spese telefoniche e adsl (ded.100%;204,46;
+29 / 15 / 47;      Spese bancarie;266,76;
+29 / 15 / 50;      Spese istruttoria mutui e finanz.;150,00;
+29 / 15 / 52;      Spese legali e di consulenza;3.018,73;
+29 / 15 / 54;      Servizi e prestazioni rese da prof;3.000,00;
+29 / 15 / 76;      Spese telefoni cellulari ded.50%;138,41;
+31;COSTI PER GODIMENTO BENI DI TERZI;3.200,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;3.200,00;
+31 / 5 / 15;      Canoni d'affitto d'azienda ded.;3.200,00;
+33;COSTI PER IL PERSONALE;11.619,33;
+33 / 5;   SALARI E STIPENDI;7.182,23;
+33 / 5 / 3;      Salari operai;7.182,23;
+33 / 10;   ONERI SOCIALI;1.968,89;
+33 / 10 / 10;      Contributi assistenziali;1.968,89;
+33 / 25;   ALTRI COSTI;2.468,21;
+33 / 25 / 99;      Altri costi del personale;2.468,21;
+38;ONERI DIVERSI DI GESTIONE;99,39;
+38 / 5;   ONERI DIVERSI DI GESTIONE;99,39;
+38 / 5 / 2;      Tasse di possesso autovett.ded.;98,56;
+38 / 5 / 26;      Arrotondamenti passivi;0,83;
+39;ONERI FINANZIARI;293,19;
+39 / 5;   INTERESSI E ALTRI ONERI FINANZIARI;293,19;
+39 / 5 / 6;      Int.passivi su mutui;293,19;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;40.416,77
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;40.416,77
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;40.416,77

@@ -1,0 +1,21 @@
+29;COSTI PER SERVIZI;1.187,53;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);4,53;
+29 / 5 / 11;      Energia elettrica uso industriale;4,53;
+29 / 15;   COSTI PER SERVIZI (GENERALI);1.183,00;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;70,00;
+29 / 15 / 47;      Spese bancarie;30,00;
+29 / 15 / 55;      Spese per consulenza del lavoro;364,00;
+29 / 15 / 64;      Servizi e spese di pulizia;108,00;
+29 / 15 / 81;      Altre spese deducibili;96,00;
+29 / 15 / 1005;      Servizi raccolta e smalt.rifiuti;515,00;
+31;COSTI PER GODIMENTO BENI DI TERZI;1.676,13;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;1.676,13;
+31 / 5 / 1;      Locazione stabilimenti;1.676,13;
+33;COSTI PER IL PERSONALE;12.558,65;
+33 / 5;   SALARI E STIPENDI;10.287,00;
+33 / 5 / 3;      Salari operai;10.287,00;
+33 / 10;   ONERI SOCIALI;2.271,65;
+33 / 10 / 1001;      Contributi dipendenti;2.271,65;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;15.480,30
+44 / 15;   RICAVI DELLE PRESTAZIONI;;15.480,30
+44 / 15 / 1;      Prestazioni di servizi Italia;;15.480,30

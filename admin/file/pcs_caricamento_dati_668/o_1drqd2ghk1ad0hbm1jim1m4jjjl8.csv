@@ -1,0 +1,14 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;1.884,54;
+27 / 5;   ACQUISTI DIVERSI;1.884,54;
+27 / 5 / 1;      Materie prime;1.605,96;
+27 / 5 / 13;      Carburanti/lubrificanti autocarri;118,85;
+27 / 5 / 16;      Materiale di cancelleria;19,66;
+27 / 5 / 34;      Acquisti vari deducibili;81,96;
+27 / 5 / 35;      Materiali di consumo;58,11;
+29;COSTI PER SERVIZI;163,85;
+29 / 15;   COSTI PER SERVIZI (GENERALI);163,85;
+29 / 15 / 30;      Pedaggi autostradali deducibili;40,98;
+29 / 15 / 81;      Altre spese deducibili;122,87;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;9.976,00
+44 / 15;   RICAVI DELLE PRESTAZIONI;;9.976,00
+44 / 15 / 1;      Prestazioni di servizi Italia;;9.976,00

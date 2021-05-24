@@ -1,0 +1,4 @@
+host mysql.pest-control-system.it
+db pestcontrolsystem
+user pcsystem
+pwd pcsystem001

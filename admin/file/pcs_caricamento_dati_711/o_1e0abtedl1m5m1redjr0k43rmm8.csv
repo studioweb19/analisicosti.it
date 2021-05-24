@@ -1,0 +1,43 @@
+27;COSTI MAT.PRIME,SUSS.,CONSUMO,MERCI;25.563,99;
+27 / 5;   ACQUISTI DIVERSI;25.563,99;
+27 / 5 / 2;      Materie sussidiarie,imballaggi,ecc;293,38;
+27 / 5 / 4;      Merci;24.879,34;
+27 / 5 / 16;      Materiale di cancelleria;98,16;
+27 / 5 / 34;      Acquisti vari deducibili;33,90;
+27 / 5 / 35;      Materiali di consumo;113,90;
+27 / 5 / 40;      Carbur./lubrific.autovett.(ded.20%;145,31;
+29;COSTI PER SERVIZI;8.944,92;
+29 / 5;   COSTI PER SERVIZI (INDUSTRIALI);688,85;
+29 / 5 / 19;      Energia elettrica uso civile;688,85;
+29 / 10;   COSTI PER SERVIZI (COMMERCIALI);3.438,88;
+29 / 10 / 10;      Spese di pubblicita' e propaganda;3.051,20;
+29 / 10 / 5001;      Servizi Lyoness/myWorld Italia srl;387,68;
+29 / 15;   COSTI PER SERVIZI (GENERALI);4.817,19;
+29 / 15 / 7;      Assicurazioni diverse;321,00;
+29 / 15 / 10;      Sp.viaggio,vitto,all.dipend.ded.75;100,00;
+29 / 15 / 24;      Manut./ripar.su altri beni propri;62,00;
+29 / 15 / 45;      Spese telefoniche (deducibili 80%);210,44;
+29 / 15 / 49;      Commiss.per servizi di incasso;273,63;
+29 / 15 / 53;      Servizi amministrativi e contabili;1.739,42;
+29 / 15 / 69;      Altre Spese condominiali ded.;150,00;
+29 / 15 / 81;      Altre spese deducibili;976,35;
+29 / 15 / 92;      Assicur.autovetture (ded. 20%);618,00;
+29 / 15 / 94;      Manut./ripar.autov.proprie(ded.20%;37,11;
+29 / 15 / 98;      Pedaggi autostradali (ded.20%);93,53;
+29 / 15 / 101;      Servizi e spese di vigilanza;198,00;
+29 / 15 / 1001;      Parcheggi (deducibili 20%);37,71;
+31;COSTI PER GODIMENTO BENI DI TERZI;5.950,00;
+31 / 5;   LEASING,LOCAZIONI,NOLEGGI,LICENZE;5.950,00;
+31 / 5 / 1001;      Locazione fondo commerciale;5.950,00;
+33;COSTI PER IL PERSONALE;129,34;
+33 / 5;   SALARI E STIPENDI;82,00;
+33 / 5 / 1001;      Stipendi e salari;82,00;
+33 / 10;   ONERI SOCIALI;47,34;
+33 / 10 / 1001;      Contributi dipendenti;47,34;
+38;ONERI DIVERSI DI GESTIONE;531,70;
+38 / 5;   ONERI DIVERSI DI GESTIONE;531,70;
+38 / 5 / 11;      Tassa raccolta rifiuti;328,00;
+38 / 5 / 35;      Altri oneri di gestione ded.;203,70;
+44;RICAVI DELLE VENDITE E DELLE PREST.;;54.339,75
+44 / 5;   RICAVI DELLE VENDITE ITALIA;;54.339,75
+44 / 5 / 1;      Vendite prod.finiti e merci Italia;;54.339,75
