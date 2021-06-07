@@ -135,7 +135,7 @@ $projecttitle="ANALISI COSTI";
 
 
 $ftp_host = "analisicosti.it";
-$ftp_id = "enzoacuser";
+$ftp_id = "studioweb19enzoacuser";
 $ftp_pw = "B3nv3nut0";
 
 $FTPUPLOADDIR="/web";

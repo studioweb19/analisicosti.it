@@ -25,7 +25,7 @@ include("resizeImage/class_resizeMyImg.php");
 //to read parameters passed by php page
 $file = 'ajaxlogupload.txt';
 // Open the file to get existing content
-$current = "ANALISI COSTI UPLOAD !! \r\n";
+$current = "ANALISI COSTI\r\n";
 // Rewrite data
 $current .= date("Y-m-d H:i:s")."\r\n";
 $current .= json_encode($_REQUEST)."\r\n";
@@ -102,6 +102,10 @@ $filePath = $targetDir . DIRECTORY_SEPARATOR . $fileName;
 
 
 $current.="filePath= $filePath\n";
+
+// Write the contents back to the file
+file_put_contents($file, $current);
+
 
 // Create target dir
 //if (!file_exists($targetDir))
@@ -190,17 +194,13 @@ try {
     $current.="remoteFile= $remoteFile\n";
     $current.="filePath= $filePath\n";
 
+
     // upload the file
     @ftp_chdir($conn_id, $FTPUPLOADDIR.$targetDirRemote);
 
     if (ftp_put($conn_id, $fileName, $filePath, FTP_BINARY)) {
-// Write the contents back to the file
-        $current.="copiato file con successo!\n";
-        file_put_contents($file, $current);
+
     } else {
-// Write the contents back to the file
-        $current.="errore copia file!\n";
-        file_put_contents($file, $current);
         die('{"jsonrpc" : "2.0", "error" : {"code": 105, "message": "Failed to upload file to ftp dir."}, "id" : "id"}');
     }
 
