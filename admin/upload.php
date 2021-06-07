@@ -25,7 +25,7 @@ include("resizeImage/class_resizeMyImg.php");
 //to read parameters passed by php page
 $file = 'ajaxlogupload.txt';
 // Open the file to get existing content
-$current = "ANALISI COSTI UPLOAD\r\n";
+$current = "ANALISI COSTI UPLOAD !! \r\n";
 // Rewrite data
 $current .= date("Y-m-d H:i:s")."\r\n";
 $current .= json_encode($_REQUEST)."\r\n";
@@ -107,7 +107,7 @@ $current.="filePath= $filePath\n";
 //if (!file_exists($targetDir))
 //	@mkdir($targetDir);
 
-// Remove old temp files	
+// Remove old temp files
 if ($cleanupTargetDir) {
     if (is_dir($targetDir) && ($dir = opendir($targetDir))) {
         while (($file = readdir($dir)) !== false) {
